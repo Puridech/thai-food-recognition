@@ -1,0 +1,56 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv
+
+# Node
+node_modules/
+.next/
+out/
+build/
+dist/
+
+# Data (ไม่ commit รูปภาพ)
+data/training/raw/**/*.jpg
+data/training/raw/**/*.jpeg
+data/training/raw/**/*.png
+data/training/raw/**/*.webp
+data/training/processed/
+*.jpg
+*.jpeg
+*.png
+*.webp
+
+# Models (ไม่ commit model weights)
+*.pth
+*.pt
+*.ckpt
+*.safetensors
+*.bin
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+$RECYCLE.BIN/
+
+# Logs
+*.log
+logs/
+
+# Environment variables
+.env
+.env.local
