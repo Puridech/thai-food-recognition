@@ -16,17 +16,6 @@ out/
 build/
 dist/
 
-# Data (ไม่ commit รูปภาพ)
-data/training/raw/**/*.jpg
-data/training/raw/**/*.jpeg
-data/training/raw/**/*.png
-data/training/raw/**/*.webp
-data/training/processed/
-*.jpg
-*.jpeg
-*.png
-*.webp
-
 # Models (ไม่ commit model weights)
 *.pth
 *.pt
