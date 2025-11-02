@@ -1,0 +1,23 @@
+{
+  "restaurants": [
+    {
+      "id": "bankkok_PhedPhed_01",
+      "name_th": "เผ็ดเผ็ด บิสโทร",
+      "name_en": "PhedPhed bistro",
+      "specialty": [
+        "som_tum",
+        "larb",
+        "khao_kluk_kapi"
+      ],
+      "region": "กรุงเทพมหานคร",
+      "latitude": 13.767401,
+      "longitude": 100.443115,
+      "price_range": "251 - 500 บาท",
+      "rating": 4.3,
+      "rating_source": "wongnai",
+      "phone": "065-092-9690",
+      "website": "https://www.facebook.com/PhedPhedFood",
+      "opening_hours": "Every Day 10:30 - 21:30"
+    }
+  ]
+}
