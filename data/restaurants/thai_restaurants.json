@@ -7,7 +7,7 @@
       "specialty": [
         "som_tum",
         "larb",
-        "khao_kluk_kapi"
+        "hor_mok"
       ],
       "region": "กรุงเทพมหานคร",
       "latitude": 13.767401,
@@ -18,6 +18,256 @@
       "phone": "065-092-9690",
       "website": "https://www.facebook.com/PhedPhedFood",
       "opening_hours": "Every Day 10:30 - 21:30"
+    },
+    {
+      "id": "bankkok_OBAROI_02",
+      "name_th": "อบอร่อย ทาวน์อินทาวน์",
+      "name_en": "OBAROI TOWN IN TOWN",
+      "specialty": [
+        "som_tum",
+        "tom_yum_goong",
+        "gung_ob_woon_sen"
+      ],
+      "region": "กรุงเทพมหานคร",
+      "latitude": 13.771856,
+      "longitude": 100.60899,
+      "price_range": "251 - 500 บาท",
+      "rating": 4.2,
+      "rating_source": "wongnai",
+      "phone": "098-282-2371, 065-876-6555",
+      "website": "https://www.facebook.com/obaroytownintown",
+      "opening_hours": "Every Day 10:30 - 21:30"
+    },
+    {
+      "id": "bankkok_Baan_Yai_03",
+      "name_th": "บ้านใหญ่ ผัดไทยเตาถ่าน",
+      "name_en": "Baan Yai Phad Thai",
+      "specialty": [
+        "pad_thai"
+      ],
+      "region": "กรุงเทพมหานคร",
+      "latitude": 13.785433,
+      "longitude": 100.570271,
+      "price_range": "< 100 บาท",
+      "rating": 4.0,
+      "rating_source": "wongnai",
+      "phone": "089-681-5838",
+      "opening_hours": "Mon - Thu 09:00 - 20:00 Fri 09:30 - 20:00 Sat 09:00 - 20:00"
+    },
+    {
+      "id": "bankok_Krua_04",
+      "name_th": "ครัวอัปษร",
+      "name_en": "Krua Apsorn",
+      "specialty": [
+        "tom_yum_goong",
+        "kaeng_khiao_wan",
+        "kaeng_massaman",
+        "kai_palo"
+      ],
+      "region": "นนทบุรี",
+      "latitude": 13.881569,
+      "longitude": 100.498921,
+      "price_range": "251 - 500 บาท",
+      "rating": 3.9,
+      "rating_source": "wongnai",
+      "phone": "080-627-6544, 062-426-4688",
+      "website": "https://www.facebook.com/kruaapsorn/",
+      "opening_hours": "Tue - Sun 10:30 - 20:00"
+    },
+    {
+      "id": "bankok_Ongtong_05",
+      "name_th": "อองตอง ข้าวซอย",
+      "name_en": "Ongtong Khaosoi",
+      "specialty": [
+        "khao_soi"
+      ],
+      "region": "กรุงเทพมหานคร",
+      "latitude": 13.78119,
+      "longitude": 100.544393,
+      "price_range": "251 - 500 บาท",
+      "rating": 3.9,
+      "rating_source": "wongnai",
+      "phone": "02-003-5254",
+      "website": "https://www.facebook.com/ongtongkhaosoi/?ref=br_rs",
+      "opening_hours": "Every Day 09:00 - 20:30"
+    },
+    {
+      "id": "bankok_Nhong_06",
+      "name_th": "หน่องริมคลอง",
+      "name_en": "Nhong Rimklong",
+      "specialty": [
+        "som_tum",
+        "pad_krapow"
+      ],
+      "region": "กรุงเทพมหานคร",
+      "latitude": 13.741258,
+      "longitude": 100.588874,
+      "price_range": "251 - 500 บาท",
+      "rating": 4.1,
+      "rating_source": "wongnai",
+      "phone": "086-044-9478",
+      "website": "https://www.facebook.com/nongrimkhlong#",
+      "opening_hours": "Mon - Fri 08:00 - 15:30"
+    },
+    {
+      "id": "bankok_JEA_YEE_07",
+      "name_th": "ข้าวมันไก่เจ๊ยี",
+      "name_en": "JEA YEE Chicken Rice",
+      "specialty": [
+        "khao_man_gai"
+      ],
+      "region": "กรุงเทพมหานคร",
+      "latitude": 13.753244,
+      "longitude": 100.509417,
+      "price_range": "< 100 บาท",
+      "rating": 4.1,
+      "rating_source": "wongnai",
+      "phone": "02-223-2645",
+      "website": "https://www.facebook.com/J.YeeChickenRice",
+      "opening_hours": "Tue - Sun 06:30 - 13:30"
+    },
+    {
+      "id": "bankok_Chantechnicc_08",
+      "name_th": "ข้าวขาหมูชาญเทคนิคพรีเมียม by โจ้",
+      "name_en": "Chantechnicc",
+      "specialty": [
+        "khao_kha_mu"
+      ],
+      "region": "นนทบุรี",
+      "latitude": 13.844888,
+      "longitude": 100.470186,
+      "price_range": "< 100 บาท",
+      "rating": 4.1,
+      "rating_source": "wongnai",
+      "phone": "089-690-6463",
+      "opening_hours": "Mon - Tue 07:00 - 14:30 Thu - Sun 07:00 - 14:30"
+    },
+    {
+      "id": "bankok_Kaeng_Pa_09",
+      "name_th": "แกงป่า(ลุงสง่า)",
+      "name_en": "Kaeng Pa (Loong Sa Nga)",
+      "specialty": [
+        "pad_krapow",
+        "tom_kha_gai"
+      ],
+      "region": "นนทบุรี",
+      "latitude": 13.865196,
+      "longitude": 100.535668,
+      "price_range": "251 - 500 บาท",
+      "rating": 4.2,
+      "rating_source": "wongnai",
+      "phone": "02-952-9992",
+      "website": "https://www.facebook.com/kangpa2552/?ref=page_internal6797683",
+      "opening_hours": "Every Day: 10:00 - 21:00"
+    },
+    {
+      "id": "bankok_Methavalai_10",
+      "name_th": "เมธาวลัย ศรแดง",
+      "name_en": "Methavalai Sorndaeng Restaurant",
+      "specialty": [
+        "kaeng_khiao_wan",
+        "kaeng_massaman",
+        "khao_kluk_kapi",
+        "por_pia_tod",
+        "khao_niao_ma_muang"
+      ],
+      "region": "กรุงเทพมหานคร",
+      "latitude": 13.756105,
+      "longitude": 100.502121,
+      "price_range": "251 - 500 บาท",
+      "rating": 4.1,
+      "rating_source": "wongnai",
+      "phone": "02-224-3088, 02-224-3178",
+      "website": "https://www.facebook.com/methavalaisorndaeng",
+      "opening_hours": "Mon 11:30 - 21:00 Tue - Sun 10:30 - 21:00"
+    },
+    {
+      "id": "bankok_Laoteng_11",
+      "name_th": "เหล่าเต๊ง",
+      "name_en": "Laoteng",
+      "specialty": [
+        "gai_pad_med_ma_muang_himmaphan",
+        "por_pia_tod"
+      ],
+      "region": "กรุงเทพมหานคร",
+      "latitude": 13.740202,
+      "longitude": 100.509916,
+      "price_range": "251 - 500 บาท",
+      "rating": 4.1,
+      "rating_source": "wongnai",
+      "phone": "096-245-4242",
+      "website": "https://www.facebook.com/Laoteng.438?_rdr",
+      "opening_hours": "Every Day 11:00 - 21:00"
+    },
+    {
+      "id": "bankok_Pia_Au12",
+      "name_th": "เปียอู๋โภชนา",
+      "name_en": "Pia Au Pochana",
+      "specialty": [
+        "tom_yum_goong",
+        "larb",
+        "gai_pad_med_ma_muang_himmaphan",
+        "gung_ob_woon_sen"
+      ],
+      "region": "สมุทรปราการ",
+      "latitude": 13.641258,
+      "longitude": 100.670812,
+      "price_range": "251 - 500 บาท",
+      "rating": 3.9,
+      "rating_source": "wongnai",
+      "phone": "095-807-4808, 02-740-2784, 02-740-2786",
+      "website": "https://www.facebook.com/piaaurestaurant/?locale=th_TH",
+      "opening_hours": "Every Day 11:00 - 21:00"
+    },
+    {
+      "id": "bankok_Khanomkhrok_13",
+      "name_th": "ขนมครกร่อน พัฒนาการ",
+      "name_en": "Khanomkhrok Ron",
+      "specialty": [
+        "khanom_krok"
+      ],
+      "region": "กรุงเทพมหานคร",
+      "latitude": 13.729769,
+      "longitude": 100.654342,
+      "price_range": "< 100 บาท",
+      "rating": 4.6,
+      "rating_source": "wongnai",
+      "phone": "081-838-1613",
+      "website": "https://www.facebook.com/Kanomcok57?mibextid=ZbWKwL",
+      "opening_hours": "Every Day 12:30 - 17:30"
+    },
+    {
+      "id": "bankok_Kanom_Krok_ Kao_14",
+      "name_th": "ขนมครกเข้าวัง",
+      "name_en": "Kanom Krok Kao Wang",
+      "specialty": [
+        "khanom_krok"
+      ],
+      "region": "กรุงเทพมหานคร",
+      "latitude": 13.778963,
+      "longitude": 100.52365,
+      "price_range": "< 100 บาท",
+      "rating": 4.0,
+      "rating_source": "wongnai",
+      "phone": "081-916-0974, 02-591-5998, 081-916-0974",
+      "opening_hours": "Tue - Sun 17:00 - 21:00"
+    },
+    {
+      "id": "bankok_Wandamrong_15",
+      "name_th": "ขนมหวานดำรงค์ (แม่บุญช่วย)",
+      "name_en": "Wandamrong",
+      "specialty": [
+        "foi_thong"
+      ],
+      "region": "กรุงเทพมหานคร",
+      "latitude": 13.765577,
+      "longitude": 100.602201,
+      "price_range": "< 100 บาท",
+      "rating": 4.0,
+      "rating_source": "wongnai",
+      "phone": "02-559-0676, 081-818-4476, 02-559-3134",
+      "website": "https://www.facebook.com/wandamrong/?locale=th_TH",
+      "opening_hours": "Mon - Fri 07:00 - 16:30 Sat 07:00 - 16:00"
     }
   ]
 }

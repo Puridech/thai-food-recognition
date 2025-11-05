@@ -7,23 +7,49 @@ import json
 import os
 
 DISH_MAP = {
-    '1': 'som_tum', '2': 'tom_yum_goong', '3': 'larb', '4': 'pad_thai',
-    '5': 'kaeng_khiao_wan', '6': 'khao_soi', '7': 'kaeng_massaman',
-    '8': 'pad_krapow', '9': 'kaeng_som', '10': 'khao_man_gai',
-    '11': 'khao_kha_mu', '12': 'pad_see_ew', '13': 'kaeng_panang',
-    '14': 'tom_kha_gai', '15': 'kaeng_jued_tao_hoo_mu_sap', 
-    '16': 'gai_pad_med_ma_muang_himmaphan',
-    '17': 'kai_palo', '18': 'kai_look_keuy', '19': 'gung_mae_nam_pao',
-    '20': 'gung_ob_woon_sen', '21': 'khao_kluk_kapi', '22': 'por_pia_tod',
-    '23': 'pad_hoi_lai', '24': 'yum_woon_sen', '25': 'hor_mok',
-    '26': 'kluay_buat_chee', '27': 'khao_niao_ma_muang', '28': 'bua_loi',
-    '29': 'khanom_krok', '30': 'foi_thong', '31': 'sangkaya_fak_thong'
+    '1': 'som_tum',
+    '2': 'tom_yum_goong',
+    '3': 'larb',
+    '4': 'pad_thai',
+    '5': 'kaeng_khiao_wan',
+    '6': 'khao_soi',
+    '7': 'kaeng_massaman',
+    '8': 'pad_krapow',
+    '9': 'khao_man_gai',
+    '10': 'khao_kha_mu',
+    '11': 'tom_kha_gai',
+    '12': 'gai_pad_med_ma_muang_himmaphan',
+    '13': 'kai_palo',
+    '14': 'gung_ob_woon_sen',
+    '15': 'khao_kluk_kapi',
+    '16': 'por_pia_tod',
+    '17': 'hor_mok',
+    '18': 'khao_niao_ma_muang',
+    '19': 'khanom_krok',
+    '20': 'foi_thong'
 }
 
 DISH_NAMES = {
-    'som_tum': 'ส้มตำ', 'tom_yum_goong': 'ต้มยำกุ้ง', 'larb': 'ลาบ',
-    'pad_thai': 'ผัดไทย', 'kaeng_khiao_wan': 'แกงเขียวหวาน',
-    # ... (เหมือนเดิม)
+    'som_tum': 'ส้มตำ',
+    'tom_yum_goong': 'ต้มยำกุ้ง',
+    'larb': 'ลาบ',
+    'pad_thai': 'ผัดไทย',
+    'kaeng_khiao_wan': 'แกงเขียวหวาน',
+    'khao_soi': 'ข้าวซอย',
+    'kaeng_massaman': 'แกงมัสมั่น',
+    'pad_krapow': 'ผัดกะเพรา',
+    'khao_man_gai': 'ข้าวมันไก่',
+    'khao_kha_mu': 'ข้าวขาหมู',
+    'tom_kha_gai': 'ต้มข่าไก่',
+    'gai_pad_med_ma_muang_himmaphan': 'ไก่ผัดเม็ดมะม่วงหิมพานต์',
+    'kai_palo': 'ไข่พะโล้',
+    'gung_ob_woon_sen': 'กุ้งอบวุ้นเส้น',
+    'khao_kluk_kapi': 'ข้าวคลุกกะปิ',
+    'por_pia_tod': 'ปอเปี๊ยะทอด',
+    'hor_mok': 'ห่อหมก',
+    'khao_niao_ma_muang': 'ข้าวเหนียวมะม่วง',
+    'khanom_krok': 'ขนมครก',
+    'foi_thong': 'ฝอยทอง'
 }
 
 def get_coordinates():

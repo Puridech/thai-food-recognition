@@ -1,5 +1,6 @@
 """
 Check progress for Task 2 (Markdown) and Task 3 (Restaurants)
+Updated for 20 dishes
 """
 
 import os
@@ -67,25 +68,22 @@ def main():
     print("-"*80)
     
     md_data = count_markdown_files()
-    target_total = 31 * 2  # 31 dishes × 2 languages
+    target_total = 20 * 2  # 21 dishes × 2 languages = 42 files
     
-    print(f"\nTarget: {target_total} files (31 dishes × 2 languages)")
+    print(f"\nTarget: {target_total} files (21 dishes × 2 languages)")
     print(f"\nCurrent status:")
-    print(f"   Thai files:    {md_data['th']:3d} / 31  ({md_data['th']/31*100:5.1f}%)")
-    print(f"   English files: {md_data['en']:3d} / 31  ({md_data['en']/31*100:5.1f}%)")
+    print(f"   Thai files:    {md_data['th']:3d} / 20  ({md_data['th']/21*100:5.1f}%)")
+    print(f"   English files: {md_data['en']:3d} / 20  ({md_data['en']/21*100:5.1f}%)")
     print(f"   {'─'*50}")
     print(f"   Total:         {md_data['total']:3d} / {target_total}  ({md_data['total']/target_total*100:5.1f}%)")
     
     # Missing files
     all_dishes = set([
         'som_tum', 'tom_yum_goong', 'larb', 'pad_thai', 'kaeng_khiao_wan',
-        'khao_soi', 'kaeng_massaman', 'pad_krapow', 'kaeng_som', 'khao_man_gai',
-        'khao_kha_mu', 'pad_see_ew', 'kaeng_panang', 'tom_kha_gai',
-        'kaeng_jued_tao_hoo_mu_sap', 'gai_pad_med_ma_muang_himmaphan',
-        'kai_palo', 'kai_look_keuy', 'gung_mae_nam_pao', 'gung_ob_woon_sen',
-        'khao_kluk_kapi', 'por_pia_tod', 'pad_hoi_lai', 'yum_woon_sen',
-        'hor_mok', 'kluay_buat_chee', 'khao_niao_ma_muang', 'bua_loi',
-        'khanom_krok', 'foi_thong', 'sangkaya_fak_thong'
+        'khao_soi', 'kaeng_massaman', 'pad_krapow', 'khao_man_gai',
+        'khao_kha_mu', 'tom_kha_gai', 'gai_pad_med_ma_muang_himmaphan',
+        'kai_palo', 'gung_ob_woon_sen', 'khao_kluk_kapi', 'por_pia_tod',
+        'hor_mok', 'khao_niao_ma_muang', 'khanom_krok', 'foi_thong'
     ])
     
     existing_th = set([f.replace('_th.md', '') for f in md_data['th_files']])
@@ -113,9 +111,9 @@ def main():
     print("-"*80)
     
     rest_data = count_restaurants()
-    target_rest = 50
+    target_rest = 40  # ~2 per dish
     
-    print(f"\nTarget: {target_rest}+ restaurants")
+    print(f"\nTarget: {target_rest}+ restaurants (~2 per dish)")
     print(f"Current: {rest_data['count']} restaurants ({rest_data['count']/target_rest*100:.1f}%)")
     
     if rest_data['by_region']:
@@ -125,9 +123,9 @@ def main():
             print(f"   {region:25s}: {count:3d} restaurants")
     
     if rest_data['by_dish']:
-        print(f"\n🍜 Coverage by Dish (Top 10):")
+        print(f"\n🍜 Coverage by Dish:")
         for dish, count in sorted(rest_data['by_dish'].items(), 
-                                   key=lambda x: x[1], reverse=True)[:10]:
+                                   key=lambda x: x[1], reverse=True)[:20]:
             print(f"   {dish:30s}: {count:2d} restaurants")
         
         # Dishes with no restaurants

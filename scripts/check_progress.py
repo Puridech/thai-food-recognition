@@ -1,77 +1,55 @@
 """
-Check Week 1-2 Progress - Updated for 31 dishes with train/valid/test split
+Check Week 1-2 Progress - Updated for 21 dishes with train/valid/test split
 """
 
 import os
 import json
 
-# รายการอาหารทั้งหมด 31 เมนู (ตามชื่อโฟลเดอร์จริง)
+# รายการอาหารทั้งหมด 21 เมนู (ตามชื่อโฟลเดอร์จริง)
 DISHES = [
-    'Bua Loi',
-    'Foi Thong',
-    'Gai Pad Med Ma Muang Himmaphan',
-    'Gung Mae Nam Pao',
-    'Gung Ob Woon Sen',
-    'Hor Mok',
-    'Kaeng Jued Tao Hoo Mu Sap',
-    'Kaeng Khiao Wan',
-    'Kaeng Massaman',
-    'Kaeng Panang',
-    'Kaeng Som',
-    'Kai Look Keuy',
-    'Kai Palo',
-    'Khanom Krok',
-    'Khao Kha Mu',
-    'Khao Kluk Kapi',
-    'Khao Man Gai',
-    'Khao Niao Ma Muang',
-    'Khao Soi',
-    'Kluay Buat Chee',
-    'Larb',
-    'Pad Hoi Lai',
-    'Pad Krapow',
-    'Pad See Ew',
-    'Pad Thai',
-    'Por Pia Tod',
-    'Sangkaya Fak Thong',
     'Som Tum',
-    'Tom Kha Gai',
     'Tom Yum Goong',
-    'Yum Woon Sen'
+    'Larb',
+    'Pad Thai',
+    'Kaeng Khiao Wan',
+    'Khao Soi',
+    'Kaeng Massaman',
+    'Pad Krapow',
+    'Khao Man Gai',
+    'Khao Kha Mu',
+    'Tom Kha Gai',
+    'Gai Pad Med Ma Muang Himmaphan',
+    'Kai Palo',
+    'Gung Ob Woon Sen',
+    'Khao Kluk Kapi',
+    'Por Pia Tod',
+    'Hor Mok',
+    'Khao Niao Ma Muang',
+    'Khanom Krok',
+    'Foi Thong'
 ]
 
 DISH_NAMES_TH = {
-    'Bua Loi': 'บัวลอย',
-    'Foi Thong': 'ฝอยทอง',
-    'Gai Pad Med Ma Muang Himmaphan': 'ไก่ผัดเม็ดมะม่วงหิมพานต์',
-    'Gung Mae Nam Pao': 'กุ้งแม่น้ำเผา',
-    'Gung Ob Woon Sen': 'กุ้งอบวุ้นเส้น',
-    'Hor Mok': 'ห่อหมก',
-    'Kaeng Jued Tao Hoo Mu Sap': 'แกงจืดเต้าหู้หมูสับ',
-    'Kaeng Khiao Wan': 'แกงเขียวหวาน',
-    'Kaeng Massaman': 'แกงมัสมั่น',
-    'Kaeng Panang': 'แกงพะแนง',
-    'Kaeng Som': 'แกงส้ม',
-    'Kai Look Keuy': 'ไข่ลูกเขย',
-    'Kai Palo': 'ไข่พะโล้',
-    'Khanom Krok': 'ขนมครก',
-    'Khao Kha Mu': 'ข้าวขาหมู',
-    'Khao Kluk Kapi': 'ข้าวคลุกกะปิ',
-    'Khao Man Gai': 'ข้าวมันไก่',
-    'Khao Niao Ma Muang': 'ข้าวเหนียวมะม่วง',
-    'Khao Soi': 'ข้าวซอย',
-    'Kluay Buat Chee': 'กล้วยบวชชี',
-    'Larb': 'ลาบ',
-    'Pad Hoi Lai': 'ผัดหอยลาย',
-    'Pad Krapow': 'ผัดกะเพรา',
-    'Pad See Ew': 'ผัดซีอิ๊ว',
-    'Pad Thai': 'ผัดไทย',
-    'Por Pia Tod': 'ปอเปี๊ยะทอด',
-    'Sangkaya Fak Thong': 'สังขยาฟักทอง',
     'Som Tum': 'ส้มตำ',
-    'Tom Kha Gai': 'ต้มข่าไก่',
     'Tom Yum Goong': 'ต้มยำกุ้ง',
-    'Yum Woon Sen': 'ยำวุ้นเส้น'
+    'Larb': 'ลาบ',
+    'Pad Thai': 'ผัดไทย',
+    'Kaeng Khiao Wan': 'แกงเขียวหวาน',
+    'Khao Soi': 'ข้าวซอย',
+    'Kaeng Massaman': 'แกงมัสมั่น',
+    'Pad Krapow': 'ผัดกะเพรา',
+    'Khao Man Gai': 'ข้าวมันไก่',
+    'Khao Kha Mu': 'ข้าวขาหมู',
+    'Tom Kha Gai': 'ต้มข่าไก่',
+    'Gai Pad Med Ma Muang Himmaphan': 'ไก่ผัดเม็ดมะม่วงหิมพานต์',
+    'Kai Palo': 'ไข่พะโล้',
+    'Gung Ob Woon Sen': 'กุ้งอบวุ้นเส้น',
+    'Khao Kluk Kapi': 'ข้าวคลุกกะปิ',
+    'Por Pia Tod': 'ปอเปี๊ยะทอด',
+    'Hor Mok': 'ห่อหมก',
+    'Khao Niao Ma Muang': 'ข้าวเหนียวมะม่วง',
+    'Khanom Krok': 'ขนมครก',
+    'Foi Thong': 'ฝอยทอง'
 }
 
 def count_images_by_split(base_path='../data/training'):
@@ -109,18 +87,16 @@ def count_images_by_split(base_path='../data/training'):
 def count_markdown(path='../data/foods'):
     """Count markdown files by language"""
     if not os.path.exists(path):
-        return {'th': 0, 'en': 0, 'jp': 0, 'total': 0}
+        return {'th': 0, 'en': 0, 'total': 0}
     
     files = [f for f in os.listdir(path) if f.endswith('.md') and not f.startswith('_')]
     
     th_count = len([f for f in files if '_th.md' in f])
     en_count = len([f for f in files if '_en.md' in f])
-    jp_count = len([f for f in files if '_jp.md' in f])
     
     return {
         'th': th_count,
         'en': en_count,
-        'jp': jp_count,
         'total': len(files)
     }
 
@@ -145,7 +121,7 @@ def print_progress_bar(current, target, width=30):
 def main():
     print("="*85)
     print(" "*28 + "📊 Week 1-2 Progress Report")
-    print(" "*30 + "31 Thai Dishes")
+    print(" "*30 + "21 Thai Dishes")
     print(" "*23 + "(train/valid/test: 240/30/30 per dish)")
     print("="*85)
     
@@ -157,19 +133,19 @@ def main():
     
     # Calculate totals
     grand_total = sum(total_by_split.values())
-    target_total = 31 * 300  # 31 dishes × 300 images
+    target_total = 20 * 300  # 20 dishes × 300 images = 6,000
     
     # Summary by split
     print(f"\n📊 Overall Statistics:")
-    print(f"   Train:  {total_by_split['train']:5d} images (target: {31*240:5d})")
-    print(f"   Valid:  {total_by_split['valid']:5d} images (target: {31*30:5d})")
-    print(f"   Test:   {total_by_split['test']:5d} images (target: {31*30:5d})")
+    print(f"   Train:  {total_by_split['train']:5d} images (target: {20*240:5d})")
+    print(f"   Valid:  {total_by_split['valid']:5d} images (target: {20*30:5d})")
+    print(f"   Test:   {total_by_split['test']:5d} images (target: {20*30:5d})")
     print(f"   {'─'*50}")
     print(f"   Total:  {grand_total:5d} images (target: {target_total:5d})")
     print(f"   Progress: {(grand_total/target_total)*100:.1f}%")
     
     # Detailed per dish
-    print(f"\n📋 Detailed Breakdown (31 dishes):")
+    print(f"\n📋 Detailed Breakdown (21 dishes):")
     print("-"*85)
     print(f"{'Dish':<40} {'Train':>6} {'Valid':>6} {'Test':>6} {'Total':>6} {'Status':>8}")
     print("-"*85)
@@ -216,10 +192,10 @@ def main():
     print("\n\n📝 Task 2: Knowledge Base (Markdown Files)")
     print("-"*85)
     md_count = count_markdown()
-    target_md = 31 * 2  # 31 dishes × 2 languages
+    target_md = 20 * 2  # 21 dishes × 2 languages = 42
     
-    print(f"   ไทย (Thai):     {md_count['th']:3d} / 31 files")
-    print(f"   English:        {md_count['en']:3d} / 31 files")
+    print(f"   ไทย (Thai):     {md_count['th']:3d} / 20 files")
+    print(f"   English:        {md_count['en']:3d} / 20 files")
     print(f"   {'─'*50}")
     print(f"   Total:          {md_count['total']:3d} / {target_md} files ({(md_count['total']/target_md)*100:.1f}%)")
     
@@ -227,7 +203,7 @@ def main():
     print("\n\n🏪 Task 3: Restaurant Database (JSON)")
     print("-"*85)
     rest_count = count_restaurants()
-    target_rest = 50  # ~1-2 restaurants per dish
+    target_rest = 40  # ~2 restaurants per dish
     
     print(f"   Restaurants:    {rest_count:3d} / {target_rest} entries ({(rest_count/target_rest)*100:.1f}%)")
     

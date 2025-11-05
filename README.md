@@ -4,15 +4,15 @@ Web application ที่ใช้ AI จดจำอาหารไทยจา
 
 ## 📊 Project Status
 
-**สัปดาห์ที่:** 2/8  
+**สัปดาห์ที่:** 3/8  
 **Phase:** Data Collection & Knowledge Base
 
 ### Progress
 - [x] Setup development environment
 - [x] Create project structure
-- [ ] Collect 1,000+ images
-- [ ] Create knowledge base (30 markdown files)
-- [ ] Create restaurant database (JSON)
+- [x] Collect 1,000+ images
+- [x] Create knowledge base (30 markdown files)
+- [x] Create restaurant database (JSON)
 
 ## 🛠️ Tech Stack
 
