@@ -46,11 +46,26 @@ def analyze_image(image_path):
     ]
     
     thai_names = [
-        "ส้มตำ", "ต้มยำกุ้ง", "ลาบ", "ผัดไทย", "แกงเขียวหวาน",
-        "ข้าวซอย", "แกงมัสมั่น", "ผัดกะเพรา", "ข้าวมันไก่", "ข้าวขาหมู",
-        "ต้มข่าไก่", "ไก่ผัดเม็ดมะม่วง", "ไข่พะโล้", "กุ้งอบวุ้นเส้น",
-        "ข้าวคลุกกะปิ", "ปอเปี๊ยะทอด", "ห่อหมก",
-        "ข้าวเหนียวมะม่วง", "ขนมครก", "ฝอยทอง"
+        "Som Tum - Papaya Salad",
+        "Tom Yum Goong - Spicy Shrimp Soup",
+        "Larb - Spicy Minced Meat Salad",
+        "Pad Thai - Thai Stir-Fried Noodles",
+        "Kaeng Khiao Wan - Green Curry",
+        "Khao Soi - Northern Thai Curry Noodles",
+        "Kaeng Massaman - Massaman Curry",
+        "Pad Krapow - Stir-Fried Holy Basil",
+        "Khao Man Gai - Chicken Rice",
+        "Khao Kha Mu - Stewed Pork Leg with Rice",
+        "Tom Kha Gai - Chicken Coconut Galangal Soup",
+        "Gai Pad Med Ma Muang - Thai Cashew Chicken",
+        "Kai Palo - Five-Spice Stewed Eggs",
+        "Gung Ob Woon Sen - Baked Prawns with Glass Noodles",
+        "Khao Kluk Kapi - Rice with Shrimp Paste",
+        "Por Pia Tod - Fried Spring Rolls",
+        "Hor Mok - Steamed Curry in Banana Leaves",
+        "Khao Niao Ma Muang - Mango Sticky Rice",
+        "Khanom Krok - Coconut Pancake",
+        "Foi Thong - Golden Threads"
     ]
     
     # โหลดรูป

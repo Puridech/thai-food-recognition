@@ -268,6 +268,329 @@
       "phone": "02-559-0676, 081-818-4476, 02-559-3134",
       "website": "https://www.facebook.com/wandamrong/?locale=th_TH",
       "opening_hours": "Mon - Fri 07:00 - 16:30 Sat 07:00 - 16:00"
+    },
+    {
+      "id": "bankok_KRUABANGNA_16",
+      "name_th": "ครัวบางนา",
+      "name_en": "KRUABANGNA",
+      "specialty": [
+        "pad_thai"
+      ],
+      "region": "กรุงเทพมหานคร",
+      "latitude": 13.66652,
+      "longitude": 100.638195,
+      "price_range": "251 - 500 บาท",
+      "rating": 4.3,
+      "rating_source": "wongnai",
+      "phone": "085-824-4889",
+      "website": "https://www.facebook.com/p/Kruabangna-100063717785378",
+      "opening_hours": "Mon - Sat 07:00 - 23:00 Sun 16:00 - 23:00"
+    },
+    {
+      "id": "bankok_Krua_Baan_Jub_17",
+      "name_th": "ครัวบ้านจิบ",
+      "name_en": "",
+      "specialty": [
+        "gai_pad_med_ma_muang_himmaphan",
+        "gung_ob_woon_sen"
+      ],
+      "region": "ปทุมธานี",
+      "latitude": 14.063295,
+      "longitude": 100.593175,
+      "price_range": "101 - 250 บาท",
+      "rating": 4.4,
+      "rating_source": "wongnai",
+      "phone": "084-761-6259",
+      "website": "https://www.facebook.com/@BANJIB.RESTUARANT",
+      "opening_hours": "Mon - Fri 10:00 - 19:00 Sun 10:00 - 16:00"
+    },
+    {
+      "id": "bankok_Ruenton_18",
+      "name_th": "เรือนต้น",
+      "name_en": "Ruenton",
+      "specialty": [
+        "pad_thai",
+        "khao_man_gai"
+      ],
+      "region": "กรุงเทพมหานคร",
+      "latitude": 13.730891,
+      "longitude": 100.531356,
+      "price_range": "251 - 500 บาท",
+      "rating": 4.1,
+      "rating_source": "wongnai",
+      "phone": "02-233-7060",
+      "website": "https://www.facebook.com/montiensurawongbkk",
+      "opening_hours": "Every Day 10:30 - 20:00"
+    },
+    {
+      "id": "bankok_VIEW_MUN_19",
+      "name_th": "เรือนอาหารวิวมูล",
+      "name_en": "VIEW MUN RESTAURANT",
+      "specialty": [
+        "som_tum",
+        "larb"
+      ],
+      "region": "อุบลราชธานี",
+      "latitude": 15.219677,
+      "longitude": 104.814925,
+      "price_range": "251 - 500 บาท",
+      "rating": 4.7,
+      "rating_source": "wongnai",
+      "phone": "081-725-3443, 094-538-3939",
+      "website": "https://shorturl.asia/QsMLB",
+      "opening_hours": "Every Day 09:00 - 21:00"
+    },
+    {
+      "id": "bankok_larb_nua_20",
+      "name_th": "ลาบนัว",
+      "name_en": "larb nua",
+      "specialty": [
+        "som_tum",
+        "larb"
+      ],
+      "region": "อุดรธานี",
+      "latitude": 17.412122,
+      "longitude": 102.796268,
+      "price_range": "101 - 250 บาท",
+      "rating": 3.9,
+      "rating_source": "wongnai",
+      "phone": "085-111-0009, 084-669-9888",
+      "opening_hours": "Every Day 17:00 - 03:30"
+    },
+    {
+      "id": "bankok_Chantra_21",
+      "name_th": "จันทรโภชนา",
+      "name_en": "",
+      "specialty": [
+        "por_pia_tod"
+      ],
+      "region": "จันทบุรี",
+      "latitude": 12.597709,
+      "longitude": 102.112344,
+      "price_range": "251 - 500 บาท",
+      "rating": 4.1,
+      "rating_source": "wongnai",
+      "phone": "03-932-7179, 065-996-2644",
+      "website": "https://www.facebook.com/Chanthornrestaurant",
+      "opening_hours": "Every Day 10:00 - 20:00"
+    },
+    {
+      "id": "bankok_pathai100_22",
+      "name_th": "ผัดไทย 100 กระทะ",
+      "name_en": "",
+      "specialty": [
+        "pad_thai"
+      ],
+      "region": "จันทบุรี",
+      "latitude": 12.619044,
+      "longitude": 102.114615,
+      "price_range": "< 100 บาท",
+      "rating": 3.9,
+      "rating_source": "wongnai",
+      "phone": "081-863-6114, 086-318-8599",
+      "opening_hours": "Mon - Tue 09:00 - 15:30 Thu - Sun 09:00 - 15:30"
+    },
+    {
+      "id": "bankok_Khaosoi_Lamduan_23",
+      "name_th": "ข้าวซอยลำดวน ฟ้าฮ่าม",
+      "name_en": "Khaosoi Lamduan Faham",
+      "specialty": [
+        "khao_soi"
+      ],
+      "region": "เชียงใหม่",
+      "latitude": 18.801549,
+      "longitude": 99.005472,
+      "price_range": "< 100 บาท",
+      "rating": 3.8,
+      "rating_source": "wongnai",
+      "phone": "092-795-2228",
+      "opening_hours": "Every Day 08:30 - 16:00"
+    },
+    {
+      "id": "bankok_Khao_Soi_Mae_Sai_24",
+      "name_th": "ข้าวซอยแม่สาย",
+      "name_en": "Khao Soi Mae Sai",
+      "specialty": [
+        "khao_soi"
+      ],
+      "region": "เชียงใหม่",
+      "latitude": 18.799417,
+      "longitude": 98.975139,
+      "price_range": "< 100 บาท",
+      "rating": 4.1,
+      "rating_source": "wongnai",
+      "phone": "053-213-284",
+      "website": "https://www.facebook.com/khaosoi.maesai.chiangmai",
+      "opening_hours": "Mon - Sat 08:00 - 16:00"
+    },
+    {
+      "id": "bankok_KoTar _25",
+      "name_th": "ข้าวมันไก่โกต้า",
+      "name_en": "Khao Man Kai Ko Tar",
+      "specialty": [
+        "khao_man_gai"
+      ],
+      "region": "ภูเก็ต",
+      "latitude": 7.880036,
+      "longitude": 98.392974,
+      "price_range": "< 100 บาท",
+      "rating": 3.7,
+      "rating_source": "wongnai",
+      "phone": "092-269-4999",
+      "opening_hours": "Every Day 06:30 - 17:00"
+    },
+    {
+      "id": "bankok_NaiTong _26",
+      "name_th": "ข้าวขาหมูบางหว้า นายต๋อง หนองดินแดง",
+      "name_en": "Khao Kha Moo Bang Wah Nai Tong",
+      "specialty": [
+        "khao_kha_mu"
+      ],
+      "region": "นครปฐม",
+      "latitude": 13.798484,
+      "longitude": 99.981535,
+      "price_range": "< 100 บาท",
+      "rating": 4.1,
+      "rating_source": "wongnai",
+      "phone": "081-866-8758",
+      "opening_hours": "Every Day 06:00 - 16:30"
+    },
+    {
+      "id": "bankok_BaanPa _27",
+      "name_th": "ห่อหมกป้าจิ๋วบ้านเพ",
+      "name_en": "",
+      "specialty": [
+        "hor_mok"
+      ],
+      "region": "ระยอง",
+      "latitude": 12.622941,
+      "longitude": 101.426545,
+      "price_range": "101 - 250 บาท",
+      "rating": 4.0,
+      "rating_source": "wongnai",
+      "phone": "086-302-7715",
+      "opening_hours": "Every Day 06:00 - 17:00"
+    },
+    {
+      "id": "bankok_PaNong_28",
+      "name_th": "ขนมบ้านป้านงค์",
+      "name_en": "Khanom Baan Pa Nong",
+      "specialty": [
+        "foi_thong"
+      ],
+      "region": "ฉะเชิงเทรา",
+      "latitude": 13.508517,
+      "longitude": 100.98356,
+      "price_range": "101 - 250 บาท",
+      "rating": 4.3,
+      "rating_source": "wongnai",
+      "phone": "038-531-333, 038-533-555",
+      "website": "https://www.facebook.com/PanongSweetsHome/#",
+      "opening_hours": "Every Day 07:00 - 19:00"
+    },
+    {
+      "id": "bankok_Maevaree_29",
+      "name_th": "ข้าวเหนียวมะม่วงแม่วารี",
+      "name_en": "Maevaree",
+      "specialty": [
+        "khao_niao_ma_muang"
+      ],
+      "region": "กรุงเทพมหานคร",
+      "latitude": 13.723917,
+      "longitude": 100.579347,
+      "price_range": "101 - 250 บาท",
+      "rating": 3.7,
+      "rating_source": "wongnai",
+      "phone": "02-392-4804, 093-164-6954",
+      "website": "https://www.instagram.com/maevareeofficial/",
+      "opening_hours": "Mon - Sat 06:00 - 22:00"
+    },
+    {
+      "id": "bankok_BaanKhanitha_30",
+      "name_th": "บ้านขนิษฐา สาทร",
+      "name_en": "Baan Khanitha",
+      "specialty": [
+        "pad_thai",
+        "tom_kha_gai",
+        "kai_palo",
+        "por_pia_tod",
+        "khao_niao_ma_muang"
+      ],
+      "region": "กรุงเทพมหานคร",
+      "latitude": 13.723343,
+      "longitude": 100.536274,
+      "price_range": "501 - 1,000 บาท",
+      "rating": 3.8,
+      "rating_source": "wongnai",
+      "phone": "083-297-5467",
+      "website": "https://baan-khanitha.com/",
+      "opening_hours": "Every Day 11:00 - 23:00"
+    },
+    {
+      "id": "bankok_Pakom_31",
+      "name_th": "ข้าวคลุกกะปิชุนเซ้ง(ป้าค่อม)",
+      "name_en": "",
+      "specialty": [
+        "khao_kluk_kapi"
+      ],
+      "region": "ราชบุรี",
+      "latitude": 13.537531,
+      "longitude": 99.814864,
+      "price_range": "< 100 บาท",
+      "rating": 4.1,
+      "rating_source": "wongnai",
+      "phone": "032-337-270",
+      "website": "https://www.facebook.com/shunzeng/?locale=th_TH",
+      "opening_hours": "Every Day 07:00 - 15:30"
+    },
+    {
+      "id": "bankok_Copper_32",
+      "name_th": "คอปเปอร์ บียอนด์ บุฟเฟ่ต์",
+      "name_en": "Copper Beyond Buffet",
+      "specialty": [
+        "pad_thai",
+        "pad_krapow"
+      ],
+      "region": "กรุงเทพมหานคร",
+      "latitude": 13.7796,
+      "longitude": 100.474843,
+      "price_range": "> 1,000 บาท",
+      "rating": 4.4,
+      "rating_source": "wongnai",
+      "phone": "092-281-1818",
+      "website": "https://www.facebook.com/CopperBeyondBuffet/?locale=th_TH"
+    },
+    {
+      "id": "bankok_Charoensaeng_33",
+      "name_th": "ขาหมูเจริญแสงสีลม",
+      "name_en": "Charoensaeng Silom",
+      "specialty": [
+        "khao_kha_mu"
+      ],
+      "region": "กรุงเทพมหานคร",
+      "latitude": 13.722802,
+      "longitude": 100.516882,
+      "price_range": "101 - 250 บาท",
+      "rating": 4.3,
+      "rating_source": "wongnai",
+      "phone": "02-234-4602, 02-234-8036",
+      "opening_hours": "Every Day 07:30 - 13:00"
+    },
+    {
+      "id": "bankok_Payai_34",
+      "name_th": "ข้าวเหนียวมะม่วงป้าเล็ก - ป้าใหญ่ (วงเวียน 22)",
+      "name_en": "",
+      "specialty": [
+        "khao_niao_ma_muang"
+      ],
+      "region": "กรุงเทพมหานคร",
+      "latitude": 13.742273,
+      "longitude": 100.511522,
+      "price_range": "101 - 250 บาท",
+      "rating": 4.0,
+      "rating_source": "wongnai",
+      "phone": "081-861-5523, 084-935-2935",
+      "opening_hours": "Mon - Thu\t08:30 - 16:00 Fri 09:00 - 16:00 Sat - Sun08:30 - 16:00"
     }
   ]
 }

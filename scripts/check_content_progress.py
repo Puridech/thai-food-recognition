@@ -111,7 +111,7 @@ def main():
     print("-"*80)
     
     rest_data = count_restaurants()
-    target_rest = 40  # ~2 per dish
+    target_rest = 30 # ~2 per dish
     
     print(f"\nTarget: {target_rest}+ restaurants (~2 per dish)")
     print(f"Current: {rest_data['count']} restaurants ({rest_data['count']/target_rest*100:.1f}%)")
