@@ -1,4 +1,5 @@
 # analyze_confidence.py
+# python test_model_layer1.py D:\0271.jpg
 import torch
 from transformers import CLIPProcessor, CLIPModel
 from PIL import Image
