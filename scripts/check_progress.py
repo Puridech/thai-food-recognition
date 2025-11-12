@@ -1,11 +1,10 @@
 """
-Check Week 1-2 Progress - Updated for 21 dishes with train/valid/test split
+Check Week 1-2 Progress - Updated for 20 dishes with train/valid/test split
 """
 
 import os
 import json
 
-# รายการอาหารทั้งหมด 21 เมนู (ตามชื่อโฟลเดอร์จริง)
 DISHES = [
     'Som Tum',
     'Tom Yum Goong',
