@@ -3,9 +3,9 @@
 ทดสอบ Layer 2 Model แบบทีละรูป
 
 Usage:
-    python test_single_image.py --image path/to/food.jpg
-    python test_single_image.py --image path/to/food.jpg --top_k 5
-    python test_single_image.py --image D:\\test\\pad_thai.jpg --model path/to/model_final.pth
+    python version2_single_test_layer2.py --image D:\images_test\images_external\foithong.jpg
+    python version2_single_test_layer2.py --image D:\images_test\images_external\foithong.jpg --top_k 5
+    python version2_single_test_layer2.py --image D:\images_test\images_external\pad_thai.jpg --model path/to/model_final.pth
     python version2_single_test_layer2.py --image D:\images_test\images_external\foithong.jpg --device cuda
 """
 

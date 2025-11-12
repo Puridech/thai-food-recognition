@@ -3,11 +3,10 @@
 ทดสอบ Layer 2 Model แบบทั้ง Folder พร้อมสร้าง Report
 
 Usage:
-    python test_batch_images.py --folder test_images/
-    python test_batch_images.py --folder D:\\test\\images\\
-    python test_batch_images.py --folder test_images/ --save_report
-    python test_batch_images.py --folder test_images/ --top_k 3 --confidence_threshold 80
-    python test_layer1.py --folder D:\images_test\images_external --device cuda
+    python version2_batch_test_layer2.py --folder D:\images_test\images_external
+    python version2_batch_test_layer2.py --folder D:\images_test\images_external/ --save_report
+    python version2_batch_test_layer2.py --folder D:\images_test\images_external/ --top_k 3 --confidence_threshold 80
+    python version2_batch_test_layer2.py --folder D:\images_test\images_external --device cuda
 """
 
 import torch

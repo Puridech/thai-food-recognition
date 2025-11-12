@@ -1,5 +1,11 @@
-# analyze_confidence.py
-# python test_layer1.py D:\0271.jpg
+"""
+🍜 Thai Food Recognition - Single Image Testing
+ทดสอบ Layer 1 Model แบบทีละรูป
+
+Usage:
+    python test_layer1.py --image D:\images_test\images_external\foithong.jpg
+    python test_layer1.py --image D:\images_test\images_external\foithong.jpg --device cuda
+"""
 import torch
 from transformers import CLIPProcessor, CLIPModel
 from PIL import Image
