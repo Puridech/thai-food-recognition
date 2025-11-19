@@ -1,0 +1,29 @@
+# Thai Food Recognition Backend - Requirements
+# Week 5-6: Backend Development
+# Updated for latest PyTorch versions
+
+# ==================== Core Framework ====================
+fastapi==0.104.1          # Modern API framework
+uvicorn[standard]==0.24.0 # ASGI server
+pydantic>=2.10.0
+pydantic-settings>=2.6.0
+python-multipart==0.0.6   # File upload support
+
+# ==================== AI/ML Framework ====================
+# Updated to latest stable versions
+torch>=2.6.0              # Deep learning (latest stable)
+torchvision>=0.21.0       # Computer vision
+transformers>=4.35.2      # Pre-trained models
+pillow>=10.1.0            # Image processing
+
+# ==================== Utilities ====================
+python-dotenv==1.0.0      # Environment variables
+aiofiles==23.2.1          # Async file operations
+
+# ==================== Development ====================
+pytest==7.4.3             # Testing framework
+httpx==0.25.2             # HTTP client for testing
+
+# ==================== Optional (for production) ====================
+# requests>=2.31.0        # HTTP requests (if needed)
+# numpy>=1.24.0           # Numerical operations (already included with torch)

@@ -1,0 +1,88 @@
+# Thai Food Recognition Backend - Git Ignore
+# Backend-specific ignores (เพิ่มเติมจาก root .gitignore)
+
+# ==================== Environment ====================
+.env
+.env.local
+.env.*.local
+
+# ==================== Logs ====================
+*.log
+logs/
+*.log.*
+
+# ==================== Temporary Files ====================
+*.tmp
+*.bak
+*.swp
+temp/
+tmp/
+uploads/  # Temporary uploaded images
+
+# ==================== IDE Specific ====================
+.vscode/settings.json
+.vscode/launch.json
+.idea/workspace.xml
+.idea/tasks.xml
+*.swp
+*.swo
+*~
+
+# ==================== OS Specific ====================
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# ==================== Python ====================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# ==================== Virtual Environment ====================
+# (Usually handled by root .gitignore, but just in case)
+venv/
+env/
+ENV/
+.venv
+
+# ==================== Testing ====================
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.hypothesis/
+
+# ==================== Distribution / Packaging ====================
+*.egg-info/
+dist/
+build/
+
+# ==================== Backend Specific ====================
+# Temporary processing files
+processing/
+cache/
+
+# User uploaded files (if stored locally)
+user_uploads/
+
+# API logs
+api_logs/
+
+# Performance profiling
+*.prof
+
+# Database (if using SQLite for caching)
+*.db
+*.sqlite
+*.sqlite3
+
+# ==================== Note ====================
+# Root .gitignore handles: venv/, __pycache__/, *.pyc, models/*.pth
+# This file adds backend-specific patterns only
