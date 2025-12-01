@@ -39,8 +39,6 @@ export interface Recipe {
   difficulty_text?: string;
   // New format: flat array of strings
   ingredients?: string[];
-  // New format: ingredients by section (from Backend)
-  ingredients_by_section?: Record<string, string[]>;
   // New format: steps with title and content
   steps?: {
     title?: string;

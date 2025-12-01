@@ -52,7 +52,6 @@ const resources = {
       medium: 'Medium',
       hard: 'Hard',
       tips: 'Tips & Tricks',
-      minutes: 'min',
       
       // Restaurants
       noRestaurants: 'No restaurants found',
@@ -127,7 +126,6 @@ const resources = {
       medium: 'ปานกลาง',
       hard: 'ยาก',
       tips: 'เคล็ดลับ',
-      minutes: 'นาที',
       
       // Restaurants
       noRestaurants: 'ไม่พบร้านอาหาร',

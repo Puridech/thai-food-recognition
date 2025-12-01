@@ -52,7 +52,7 @@
       "rating": 4.0,
       "rating_source": "wongnai",
       "phone": "089-681-5838",
-      "opening_hours": "Mon - Thu 09:00 - 20:00 Fri 09:30 - 20:00 Sat 09:00 - 20:00"
+      "opening_hours": "Mon - Thu 09:00 - 20:00\nFri 09:30 - 20:00\nSat 09:00 - 20:00"
     },
     {
       "id": "bankok_Krua_04",
@@ -140,7 +140,7 @@
       "rating": 4.1,
       "rating_source": "wongnai",
       "phone": "089-690-6463",
-      "opening_hours": "Mon - Tue 07:00 - 14:30 Thu - Sun 07:00 - 14:30"
+      "opening_hours": "Mon - Tue 07:00 - 14:30\nThu - Sun 07:00 - 14:30"
     },
     {
       "id": "bankok_Kaeng_Pa_09",
@@ -179,7 +179,7 @@
       "rating_source": "wongnai",
       "phone": "02-224-3088, 02-224-3178",
       "website": "https://www.facebook.com/methavalaisorndaeng",
-      "opening_hours": "Mon 11:30 - 21:00 Tue - Sun 10:30 - 21:00"
+      "opening_hours": "Mon 11:30 - 21:00\nTue - Sun 10:30 - 21:00"
     },
     {
       "id": "bankok_Laoteng_11",
@@ -267,7 +267,7 @@
       "rating_source": "wongnai",
       "phone": "02-559-0676, 081-818-4476, 02-559-3134",
       "website": "https://www.facebook.com/wandamrong/?locale=th_TH",
-      "opening_hours": "Mon - Fri 07:00 - 16:30 Sat 07:00 - 16:00"
+      "opening_hours": "Mon - Fri 07:00 - 16:30\nSat 07:00 - 16:00"
     },
     {
       "id": "bankok_KRUABANGNA_16",
@@ -284,7 +284,7 @@
       "rating_source": "wongnai",
       "phone": "085-824-4889",
       "website": "https://www.facebook.com/p/Kruabangna-100063717785378",
-      "opening_hours": "Mon - Sat 07:00 - 23:00 Sun 16:00 - 23:00"
+      "opening_hours": "Mon - Sat 07:00 - 23:00\nSun 16:00 - 23:00"
     },
     {
       "id": "bankok_Krua_Baan_Jub_17",
@@ -302,7 +302,7 @@
       "rating_source": "wongnai",
       "phone": "084-761-6259",
       "website": "https://www.facebook.com/@BANJIB.RESTUARANT",
-      "opening_hours": "Mon - Fri 10:00 - 19:00 Sun 10:00 - 16:00"
+      "opening_hours": "Mon - Fri 10:00 - 19:00\nSun 10:00 - 16:00"
     },
     {
       "id": "bankok_Ruenton_18",
@@ -388,7 +388,7 @@
       "rating": 3.9,
       "rating_source": "wongnai",
       "phone": "081-863-6114, 086-318-8599",
-      "opening_hours": "Mon - Tue 09:00 - 15:30 Thu - Sun 09:00 - 15:30"
+      "opening_hours": "Mon - Tue 09:00 - 15:30\nThu - Sun 09:00 - 15:30"
     },
     {
       "id": "bankok_Khaosoi_Lamduan_23",
@@ -590,7 +590,7 @@
       "rating": 4.0,
       "rating_source": "wongnai",
       "phone": "081-861-5523, 084-935-2935",
-      "opening_hours": "Mon - Thu\t08:30 - 16:00 Fri 09:00 - 16:00 Sat - Sun08:30 - 16:00"
+      "opening_hours": "Mon - Thu 08:30 - 16:00\nFri 09:00 - 16:00\nSat - Sun08:30 - 16:00"
     }
   ]
 }

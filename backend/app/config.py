@@ -68,7 +68,7 @@ class Settings(BaseSettings):
     # ==================== Thai Food Dishes ====================
     # จากรายชื่อเมนู 20 เมนู
     SUPPORTED_DISHES: List[str] = [
-        "som_tam",                          # ส้มตำ
+        "som_tum",                          # ส้มตำ
         "tom_yum_goong",                    # ต้มยำกุ้ง
         "larb",                             # ลาบ
         "pad_thai",                         # ผัดไทย
