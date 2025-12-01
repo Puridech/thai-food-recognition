@@ -85,7 +85,7 @@ class Settings(BaseSettings):
         "khao_kluk_kapi",                   # ข้าวคลุกกะปิ
         "por_pia_tod",                      # ปอเปี๊ยะทอด
         "hor_mok",                          # ห่อหมก
-        "khao_niao_mamuang",                # ข้าวเหนียวมะม่วง
+        "khao_niao_ma_muang",               # ข้าวเหนียวมะม่วง
         "khanom_krok",                      # ขนมครก
         "foi_thong"                         # ฝอยทอง
     ]

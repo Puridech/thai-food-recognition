@@ -3,6 +3,7 @@
 import { useEffect, useState } from 'react';
 import { useParams, useRouter } from 'next/navigation';
 import { useTranslation } from 'react-i18next';
+import { FiArrowLeft } from 'react-icons/fi';
 import '@/lib/i18n';
 import Navbar from '@/components/layout/Navbar';
 import { apiClient } from '@/lib/api-client';
@@ -518,7 +519,7 @@ export default function FoodDetailPage() {
                                     <h3 className="text-2xl font-bold text-gray-900 mb-5 flex items-center gap-3">
                                       <span className="text-3xl">{icon}</span>
                                       <span>{sectionName}</span>
-                                      {!isEquipment && foodInfo.recipe.servings && (
+                                      {!isEquipment && foodInfo.recipe?.servings && (
                                         <span className="text-sm font-normal text-gray-500">
                                           ({foodInfo.recipe.servings} {i18n.language === 'th' ? 'ท่าน' : 'servings'})
                                         </span>
@@ -559,7 +560,7 @@ export default function FoodDetailPage() {
                                     <h3 className="text-2xl font-bold text-gray-900 mb-5 flex items-center gap-3">
                                       <span className="text-3xl">{icon}</span>
                                       <span>{category.category}</span>
-                                      {category.category.includes('วัตถุดิบ') && foodInfo.recipe.servings && (
+                                      {category.category.includes('วัตถุดิบ') && foodInfo.recipe?.servings && (
                                         <span className="text-sm font-normal text-gray-500">
                                           ({foodInfo.recipe.servings} ท่าน)
                                         </span>
