@@ -11,8 +11,8 @@ export const foodImages: Record<string, string> = {
   'pad_thai': '/food-images/pad_thai.png',                                         // ผัดไทย
   'kaeng_khiao_wan': '/food-images/kaeng_khiao_wan.png',                          // แกงเขียวหวาน
   'khao_soi': '/food-images/khao_soi.png',                                         // ข้าวซอย
-  'kaeng_matsaman': '/food-images/kaeng_matsaman.png',                            // แกงมัสมั่น
-  'pad_kra_pao': '/food-images/pad_kra_pao.png',                                  // ผัดกะเพรา
+  'kaeng_massaman': '/food-images/kaeng_massaman.png',                            // แกงมัสมั่น
+  'pad_krapow': '/food-images/pad_krapow.png',                                  // ผัดกะเพรา
   'khao_man_gai': '/food-images/khao_man_gai.png',                                // ข้าวมันไก่
   'khao_kha_mu': '/food-images/khao_kha_mu.png',                                  // ข้าวขาหมู
   'tom_kha_gai': '/food-images/tom_kha_gai.png',                                  // ต้มข่าไก่

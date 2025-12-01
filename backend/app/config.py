@@ -74,8 +74,8 @@ class Settings(BaseSettings):
         "pad_thai",                         # ผัดไทย
         "kaeng_khiao_wan",                  # แกงเขียวหวาน
         "khao_soi",                         # ข้าวซอย
-        "kaeng_matsaman",                   # แกงมัสมั่น
-        "pad_kra_pao",                      # ผัดกะเพรา
+        "kaeng_massaman",                   # แกงมัสมั่น
+        "pad_krapow",                       # ผัดกะเพรา
         "khao_man_gai",                     # ข้าวมันไก่
         "khao_kha_mu",                      # ข้าวขาหมู
         "tom_kha_gai",                      # ต้มข่าไก่
