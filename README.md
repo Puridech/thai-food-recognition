@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🍜 Thai Food Recognition & Cultural Discovery
 
 **AI-Powered Thai Food Recognition System with Cultural Information**
@@ -534,3 +535,6 @@ python hybrid_prediction.py --image ../../data/test_images/padthai.jpg --verbose
 | **Type** | Internship Project in Japan |
 
 ---
+=======
+🍜 Thai Food Recognition & Cultural Discovery 🍜 
+>>>>>>> fda92cbf9a5b952d56deeb7e9f817876b502c587
