@@ -47,7 +47,7 @@ export default function RecognitionResult({
             {t('recognitionResult')}
           </h3>
           <p className="text-gray-600">
-            {result.success ? 'Successfully identified!' : 'Recognition complete'}
+            {result.success ? t('successfullyIdentified') : t('recognitionResult')}
           </p>
         </div>
       </div>
@@ -101,7 +101,7 @@ export default function RecognitionResult({
           <div className="flex items-center gap-2 mb-2">
             <FiClock className="text-purple-600" />
             <span className="text-sm font-medium text-gray-700">
-              Processing Time
+              {t('processingTime')}
             </span>
           </div>
           <p className="text-2xl font-bold text-purple-600">
@@ -114,11 +114,11 @@ export default function RecognitionResult({
           <div className="flex items-center gap-2 mb-2">
             <FiCheckCircle className="text-green-600" />
             <span className="text-sm font-medium text-gray-700">
-              Status
+              {t('status')}
             </span>
           </div>
           <p className="text-lg font-bold text-green-600">
-            ✓ Success
+            ✓ {t('success')}
           </p>
         </div>
       </div>
@@ -138,22 +138,52 @@ export default function RecognitionResult({
         className="w-full btn btn-primary text-lg py-4 flex items-center justify-center gap-2"
       >
         <span className="text-2xl">📖</span>
-        <span>View Full Details</span>
+        <span>{t('viewFullDetails')}</span>
       </button>
 
       {/* Info cards */}
       <div className="mt-6 grid grid-cols-3 gap-3">
-        <button className="p-3 bg-white border-2 border-gray-200 hover:border-primary-300 rounded-lg transition-colors text-center">
+        <button 
+          onClick={() => {
+            onViewDetails();
+            // Scroll to story tab after navigation
+            setTimeout(() => {
+              const storyTab = document.querySelector('[data-tab="story"]') as HTMLElement;
+              if (storyTab) storyTab.click();
+            }, 100);
+          }}
+          className="p-3 bg-white border-2 border-gray-200 hover:border-primary-300 hover:bg-primary-50 rounded-lg transition-all text-center cursor-pointer"
+        >
           <div className="text-2xl mb-1">📖</div>
           <p className="text-xs font-medium text-gray-700">{t('culturalStory')}</p>
         </button>
         
-        <button className="p-3 bg-white border-2 border-gray-200 hover:border-primary-300 rounded-lg transition-colors text-center">
+        <button 
+          onClick={() => {
+            onViewDetails();
+            // Scroll to recipe tab after navigation
+            setTimeout(() => {
+              const recipeTab = document.querySelector('[data-tab="recipe"]') as HTMLElement;
+              if (recipeTab) recipeTab.click();
+            }, 100);
+          }}
+          className="p-3 bg-white border-2 border-gray-200 hover:border-primary-300 hover:bg-primary-50 rounded-lg transition-all text-center cursor-pointer"
+        >
           <div className="text-2xl mb-1">👨‍🍳</div>
           <p className="text-xs font-medium text-gray-700">{t('recipe')}</p>
         </button>
         
-        <button className="p-3 bg-white border-2 border-gray-200 hover:border-primary-300 rounded-lg transition-colors text-center">
+        <button 
+          onClick={() => {
+            onViewDetails();
+            // Scroll to restaurants tab after navigation
+            setTimeout(() => {
+              const restaurantsTab = document.querySelector('[data-tab="restaurants"]') as HTMLElement;
+              if (restaurantsTab) restaurantsTab.click();
+            }, 100);
+          }}
+          className="p-3 bg-white border-2 border-gray-200 hover:border-primary-300 hover:bg-primary-50 rounded-lg transition-all text-center cursor-pointer"
+        >
           <div className="text-2xl mb-1">🏪</div>
           <p className="text-xs font-medium text-gray-700">{t('restaurants')}</p>
         </button>

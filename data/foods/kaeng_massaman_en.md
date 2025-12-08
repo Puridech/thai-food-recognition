@@ -1,7 +1,6 @@
 # Kaeng Massaman (แกงมัสมั่น)
 
 ## 📖 General Information
-
 - **Thai Name**: แกงมัสมั่น (Kaeng Massaman, Massaman Curry)
 - **English Name**: Massaman Curry, Mussaman Curry
 - **Region of Origin**: Central Thailand (during Ayutthaya period)
@@ -22,14 +21,14 @@ Massaman Curry has become a symbol of successful cultural fusion, demonstrating 
 
 ### Ingredients (serves 2-3)
 
-**Main Ingredients:**
+#### Main Ingredients
 - 400g beef, cut into bite-sized chunks (or substitute chicken)
 - 2 large potatoes, cut into large chunks
 - 1 large onion, cut into large pieces
 - 3 cups coconut milk (separate 1/2 cup thick cream)
 - 1 cup water or stock
 
-**Massaman Curry Paste:**
+#### Massaman Curry Paste
 - 5-6 large dried red chilies (soaked until soft)
 - 5-6 shallots
 - 5-6 garlic cloves
@@ -45,12 +44,12 @@ Massaman Curry has become a symbol of successful cultural fusion, demonstrating 
 - 1/4 teaspoon ground cloves
 - 1/4 teaspoon ground nutmeg
 
-**Seasonings:**
+#### Seasonings
 - 3 tablespoons fish sauce
 - 3-4 tablespoons palm sugar (or brown sugar)
 - 2 tablespoons tamarind paste
 
-**Garnishes:**
+#### Garnishes
 - 1/2 cup roasted peanuts
 - 3-4 dried chilies, fried
 - Steamed jasmine rice (for serving)
@@ -58,29 +57,35 @@ Massaman Curry has become a symbol of successful cultural fusion, demonstrating 
 
 ### Cooking Instructions
 
-1. **Prepare curry paste** - Soak dried chilies in warm water until soft, about 15-20 minutes. Place softened chilies, shallots, garlic, lemongrass, galangal, kaffir lime leaves, cilantro roots, shrimp paste, and all ground spices (coriander, cumin, white pepper, cinnamon, cloves, nutmeg) in a blender or mortar. Grind until you achieve a smooth, aromatic paste. Add a little water if needed to help blend. Massaman curry paste contains many spices and should be ground finely to release full aromatic potential.
+**Step 1: Prepare curry paste**
+Soak dried chilies in warm water until soft, about 15-20 minutes. Place softened chilies, shallots, garlic, lemongrass, galangal, kaffir lime leaves, cilantro roots, shrimp paste, and all ground spices (coriander, cumin, white pepper, cinnamon, cloves, nutmeg) in a blender or mortar. Grind until you achieve a smooth, aromatic paste. Add a little water if needed to help blend. Massaman curry paste contains many spices and should be ground finely to release full aromatic potential.
 
-2. **Fry curry paste and cook meat** - Heat a pot over medium heat. Add 1/2 cup thick coconut cream and stir-fry until cream separates and oil appears. Add the prepared Massaman curry paste and continue frying until fragrant with sweet, warm spice aromas rising, about 5-7 minutes. Add beef or chicken chunks and turn to coat thoroughly with curry paste. Add 1 cup water or stock. Bring to a boil, then reduce heat, cover, and simmer for 45-60 minutes (for beef) or 25-30 minutes (for chicken) until meat is tender.
+**Step 2: Fry curry paste and cook meat**
+Heat a pot over medium heat. Add 1/2 cup thick coconut cream and stir-fry until cream separates and oil appears. Add the prepared Massaman curry paste and continue frying until fragrant with sweet, warm spice aromas rising, about 5-7 minutes. Add beef or chicken chunks and turn to coat thoroughly with curry paste. Add 1 cup water or stock. Bring to a boil, then reduce heat, cover, and simmer for 45-60 minutes (for beef) or 25-30 minutes (for chicken) until meat is tender.
 
-3. **Add coconut milk and season** - Once meat begins to tenderize, pour in remaining 2.5 cups coconut milk and stir to combine. Season with fish sauce, palm sugar, and tamarind paste. Taste - you should achieve a flavor profile that leads with subtle sweetness, followed by saltiness and sourness, with coconut richness and aromatic spices. Continue simmering for 15-20 minutes to allow meat to absorb curry flavors and coconut milk to thicken.
+**Step 3: Add coconut milk and season**
+Once meat begins to tenderize, pour in remaining 2.5 cups coconut milk and stir to combine. Season with fish sauce, palm sugar, and tamarind paste. Taste - you should achieve a flavor profile that leads with subtle sweetness, followed by saltiness and sourness, with coconut richness and aromatic spices. Continue simmering for 15-20 minutes to allow meat to absorb curry flavors and coconut milk to thicken.
 
-4. **Add potatoes and onions** - Add potato and onion chunks. Simmer for another 15-20 minutes until potatoes are cooked through and tender but still holding their shape. Be careful not to overcook or potatoes will disintegrate. At this stage, the curry should have a beautiful reddish-brown color, moderately thick consistency, and intense spice aromatics.
+**Step 4: Add potatoes and onions**
+Add potato and onion chunks. Simmer for another 15-20 minutes until potatoes are cooked through and tender but still holding their shape. Be careful not to overcook or potatoes will disintegrate. At this stage, the curry should have a beautiful reddish-brown color, moderately thick consistency, and intense spice aromatics.
 
-5. **Add peanuts** - Add roasted peanuts and gently stir to incorporate. Simmer for another 2-3 minutes to allow peanuts to absorb some curry flavor while maintaining their crunch. Taste one final time and adjust seasoning to achieve perfect balance.
+**Step 5: Add peanuts**
+Add roasted peanuts and gently stir to incorporate. Simmer for another 2-3 minutes to allow peanuts to absorb some curry flavor while maintaining their crunch. Taste one final time and adjust seasoning to achieve perfect balance.
 
-6. **Fry dried chilies and serve** - Deep-fry 3-4 dried chilies in hot oil until crispy and aromatic. Be careful not to burn them. Ladle Massaman Curry into serving bowls and garnish with fried dried chilies. Sprinkle additional peanuts on top if desired.
+**Step 6: Fry dried chilies and serve**
+Deep-fry 3-4 dried chilies in hot oil until crispy and aromatic. Be careful not to burn them. Ladle Massaman Curry into serving bowls and garnish with fried dried chilies. Sprinkle additional peanuts on top if desired.
 
-7. **Serve** - Serve hot Massaman Curry with steamed jasmine rice and ajad (if available). Excellent Massaman Curry should have meltingly tender meat, thick rich sauce, aromatic spices, and a sweet richness that's pronounced but not cloying.
+**Step 7: Serve**
+Serve hot Massaman Curry with steamed jasmine rice and ajad (if available). Excellent Massaman Curry should have meltingly tender meat, thick rich sauce, aromatic spices, and a sweet richness that's pronounced but not cloying.
 
 ### Cooking Time
-
-- **Prep time**: 25-30 minutes (including soaking chilies and making curry paste)
-- **Cook time**: 80-100 minutes (including simmering meat)
-- **Total time**: 105-130 minutes (1.5-2 hours)
+- Prep time: 25-30 minutes (including soaking chilies and making curry paste)
+- Cook time: 80-100 minutes (including simmering meat)
+- Total time: 105-130 minutes (1.5-2 hours)
 
 ### Difficulty Level
 
-⭐⭐⭐⭐☆ (Moderately Difficult)
+⭐⭐⭐⭐☆ (4/5 stars) - Moderately Difficult
 
 ### 💡 Tips and Notes
 

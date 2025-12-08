@@ -2,13 +2,14 @@
 
 import { useRouter } from 'next/navigation';
 import { useTranslation } from 'react-i18next';
+import Logo from '@/components/ui/Logo';
 
 interface NavbarProps {
   showBackButton?: boolean;
   onBack?: () => void;
 }
 
-export default function Navbar({ showBackButton = false, onBack }: NavbarProps) {
+export default function Navbar({ onBack }: NavbarProps) {
   const router = useRouter();
   const { t, i18n } = useTranslation();
 
@@ -34,7 +35,7 @@ export default function Navbar({ showBackButton = false, onBack }: NavbarProps) 
             onClick={handleLogoClick}
             className="flex items-center gap-2 sm:gap-3 hover:opacity-80 transition-opacity min-w-0 flex-1 sm:flex-initial"
           >
-            <div className="text-3xl sm:text-4xl flex-shrink-0">🍜</div>
+            <Logo size={40} className="flex-shrink-0" />
             <div className="text-left min-w-0">
               <h1 className="text-lg sm:text-2xl font-bold text-gray-900 truncate">
                 Thai Food Recognition
@@ -53,7 +54,7 @@ export default function Navbar({ showBackButton = false, onBack }: NavbarProps) 
               className="btn btn-outline flex items-center gap-1 sm:gap-2 px-3 sm:px-4 py-2"
             >
               <span className="text-lg sm:text-xl">📜</span>
-              <span className="hidden sm:inline text-sm sm:text-base">History</span>
+              <span className="hidden sm:inline text-sm sm:text-base">{t('history')}</span>
             </button>
 
             {/* Language Switcher - Icon only on mobile */}

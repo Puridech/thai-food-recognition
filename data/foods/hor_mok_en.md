@@ -76,7 +76,7 @@ Once the Hor Mok is fully cooked, remove from the steamer. Let cool slightly. Se
 - Total: 50 minutes
 
 ### Difficulty Level
-⭐⭐⭐⭐ (4/5 stars) - Quite Difficult
+⭐⭐⭐⭐☆ (4/5 stars) - Quite Difficult
 
 ### 💡 Tips and Notes
 

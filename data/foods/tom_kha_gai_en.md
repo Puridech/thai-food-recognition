@@ -1,14 +1,11 @@
 # Tom Kha Gai (ต้มข่าไก่)
 
 ## 📖 General Information
-
-**Thai Name:** ต้มข่าไก่ (Tom Kha Gai)  
-**English Name:** Chicken Galangal Soup / Thai Coconut Chicken Soup  
-**Region of Origin:** Central Thailand  
-**Category:** Savory (Soup)  
-**Main Flavor Profile:** Salty, Creamy, Sour, Aromatic, Mildly Spicy
-
----
+- **Thai Name**: ต้มข่าไก่ (Tom Kha Gai)  
+- **English Name**: Chicken Galangal Soup / Thai Coconut Chicken Soup  
+- **Region of Origin**: Central Thailand  
+- **Category**: Savory (Soup)  
+- **Main Flavor Profile**: Salty, Creamy, Sour, Aromatic, Mildly Spicy
 
 ## 🌟 Cultural Story and History
 
@@ -20,31 +17,29 @@ This soup can be enjoyed year-round, but it's especially popular during the rain
 
 Today, Tom Kha Gai has become an iconic representation of Thai cuisine worldwide. It has been adapted into various versions such as Tom Kha Goong (with shrimp), Tom Kha Talay (with mixed seafood), Tom Kha Pla (with fish), or even vegetarian versions with tofu and mushrooms. However, the original recipe using chicken remains the most popular and widely accepted version, offering a perfectly balanced and comforting flavor profile.
 
----
-
 ## 👨‍🍳 Recipe
 
 ### Ingredients (Serves 2-3)
 
-**Main Ingredients:**
+#### Main Ingredients
 - 300g chicken breast or thigh, cut into bite-sized pieces
 - 2 cups coconut milk (or 400ml canned coconut milk)
 - 1 cup chicken stock or water
 
-**Aromatics:**
+#### Aromatics
 - 50g galangal, thinly sliced (about 8-10 slices)
 - 2 lemongrass stalks, cut into 1.5-inch pieces and bruised
 - 5-6 kaffir lime leaves, torn in half
 - 2 shallots, sliced (optional)
 
-**Seasonings:**
+#### Seasonings
 - 2-3 tablespoons fish sauce
 - 2-3 tablespoons fresh lime juice
 - 1 teaspoon sugar
 - 5-7 bird's eye chilies, lightly crushed (adjust to taste)
 - 1 tablespoon vegetable oil
 
-**Garnishes/Vegetables:**
+#### Garnishes/Vegetables
 - 150g straw mushrooms or button mushrooms, halved
 - 4 cherry tomatoes, quartered
 - Fresh cilantro for garnish
@@ -75,23 +70,14 @@ Once you've achieved your desired taste, turn off the heat. Now squeeze in the f
 **Step 7: Serve**  
 Ladle the soup into bowls. Garnish with fresh cilantro and sliced red chilies. Serve hot with steamed jasmine rice or sticky rice.
 
----
-
 ### Cooking Time
-
-- **Prep Time:** 15 minutes
-- **Cook Time:** 15-20 minutes
-- **Total:** 30-35 minutes
-
----
+- Prep time: 15 minutes
+- Cook time: 15-20 minutes
+- Total: 30-35 minutes
 
 ### Difficulty Level
 
-⭐⭐ (2/5 stars - Easy)
-
-Perfect for beginners who want to learn Thai cooking. No complex techniques required—just follow the steps and balance the flavors.
-
----
+⭐⭐☆☆☆ (2/5 stars) - Easy
 
 ### 💡 Tips and Notes
 

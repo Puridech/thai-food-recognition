@@ -79,7 +79,7 @@ Arrange the fried spring rolls on a serving plate. Garnish with lettuce, cilantr
 - Total: 60 minutes (1 hour)
 
 ### Difficulty Level
-⭐⭐⭐ (3/5 stars) - Intermediate
+⭐⭐⭐☆☆ (3/5 stars) - Intermediate
 
 ### 💡 Tips and Notes
 

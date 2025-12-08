@@ -83,7 +83,7 @@ When ready to eat, reheat the Kai Palo until hot. Cut the eggs in half or into q
 - Total: 65-75 minutes (or overnight for maximum flavor absorption)
 
 ### Difficulty Level
-⭐⭐ (2/5 stars) - Easy
+⭐⭐☆☆☆ (2/5 stars) - Easy
 
 ### 💡 Tips and Notes
 

@@ -8,6 +8,7 @@ import '@/lib/i18n';
 import Navbar from '@/components/layout/Navbar';
 import { apiClient } from '@/lib/api-client';
 import { getFoodImage } from '@/lib/food-images';
+import { formatFoodName } from '@/lib/history';
 import Loading from '@/components/ui/Loading';
 import ErrorMessage from '@/components/ui/ErrorMessage';
 import type { FoodInfoResponse, RestaurantResponse } from '@/types/api';
@@ -30,12 +31,9 @@ export default function FoodDetailPage() {
     .toLowerCase()
     .replace(/\s+/g, '_'); // Replace spaces with underscores
 
-  // Format food name for display
-  const formatFoodName = (name: string): string => {
-    return name
-      .split('_')
-      .map((word) => word.charAt(0).toUpperCase() + word.slice(1))
-      .join(' ');
+  // Helper to format food name with current language (uses imported formatFoodName from lib/history)
+  const getFormattedFoodName = (name: string) => {
+    return formatFoodName(name, i18n.language as 'en' | 'th');
   };
 
   // Fetch food info and restaurants
@@ -54,6 +52,9 @@ export default function FoodDetailPage() {
         // Fetch food info using normalized name
         const info = await apiClient.getFoodInfo(normalizedFoodName, i18n.language);
         console.log('📊 Food Info Response:', JSON.stringify(info, null, 2));
+        console.log('🍴 Food name from API:', info.food_name);
+        console.log('🌐 Current language:', i18n.language);
+        console.log('🏷️ Formatted name:', formatFoodName(info.food_name, i18n.language as 'en' | 'th'));
         
         // Debug: Check recipe structure
         if (info.recipe) {
@@ -145,7 +146,7 @@ export default function FoodDetailPage() {
                     {foodImage ? (
                       <img
                         src={foodImage}
-                        alt={formatFoodName(foodInfo.food_name)}
+                        alt={getFormattedFoodName(foodInfo.food_name)}
                         className="w-full h-full object-cover"
                       />
                     ) : (
@@ -160,12 +161,12 @@ export default function FoodDetailPage() {
                 <div className="flex-1 text-center md:text-left">
                   <div className="inline-block mb-4">
                     <span className="px-4 py-2 bg-white/20 backdrop-blur-sm text-white rounded-full text-sm font-semibold">
-                      🍽️ Thai Cuisine
+                      🍽️ {t('thaiCuisine')}
                     </span>
                   </div>
                   
                   <h1 className="text-4xl md:text-6xl font-extrabold text-white mb-4 drop-shadow-lg">
-                    {formatFoodName(foodInfo.food_name)}
+                    {getFormattedFoodName(foodInfo.food_name)}
                   </h1>
                   
                   {foodInfo.cultural_story?.region && (
@@ -177,10 +178,10 @@ export default function FoodDetailPage() {
 
                   <div className="flex flex-wrap gap-3 justify-center md:justify-start">
                     <span className="px-4 py-2 bg-white/20 backdrop-blur-sm text-white rounded-lg text-sm font-medium">
-                      ⭐ Popular Dish
+                      ⭐ {t('popularDish')}
                     </span>
                     <span className="px-4 py-2 bg-white/20 backdrop-blur-sm text-white rounded-lg text-sm font-medium">
-                      🔥 Authentic Recipe
+                      🔥 {t('authenticRecipe')}
                     </span>
                   </div>
                 </div>
@@ -193,6 +194,7 @@ export default function FoodDetailPage() {
             {/* Mobile: Vertical Tabs, Desktop: Horizontal */}
             <div className="flex flex-col sm:flex-row border-b border-gray-200">
               <button
+                data-tab="story"
                 onClick={() => setActiveTab('story')}
                 className={`flex-1 py-3 px-4 sm:py-4 sm:px-6 font-semibold transition-all text-left sm:text-center ${
                   activeTab === 'story'
@@ -205,6 +207,7 @@ export default function FoodDetailPage() {
               </button>
 
               <button
+                data-tab="recipe"
                 onClick={() => setActiveTab('recipe')}
                 className={`flex-1 py-3 px-4 sm:py-4 sm:px-6 font-semibold transition-all text-left sm:text-center ${
                   activeTab === 'recipe'
@@ -217,6 +220,7 @@ export default function FoodDetailPage() {
               </button>
 
               <button
+                data-tab="restaurants"
                 onClick={() => setActiveTab('restaurants')}
                 className={`flex-1 py-3 px-4 sm:py-4 sm:px-6 font-semibold transition-all text-left sm:text-center ${
                   activeTab === 'restaurants'
@@ -237,7 +241,7 @@ export default function FoodDetailPage() {
                   {foodInfo.cultural_story ? (
                     <>
                       <h2 className="text-2xl font-bold text-gray-900 mb-6">
-                        {foodInfo.cultural_story.title || formatFoodName(foodInfo.food_name)}
+                        {foodInfo.cultural_story.title || getFormattedFoodName(foodInfo.food_name)}
                       </h2>
                       
                       {/* General Info Cards - New Format with Beautiful Icons */}
@@ -354,7 +358,7 @@ export default function FoodDetailPage() {
                         <div className="border-l-4 border-amber-400 pl-6 pr-4 py-4 bg-gradient-to-r from-amber-50/50 to-transparent rounded-r-lg mb-6">
                           <h3 className="text-2xl font-bold text-gray-900 mb-4 flex items-center gap-3">
                             <span className="text-3xl">📖</span>
-                            <span>Story</span>
+                            <span>{t('story')}</span>
                           </h3>
                           <div className="space-y-4">
                             {foodInfo.cultural_story.story.split('\n\n').map((paragraph, idx) => (
@@ -414,7 +418,7 @@ export default function FoodDetailPage() {
                         Cultural story information is not available yet.
                       </p>
                       <p className="text-gray-500 text-sm mt-2">
-                        Check back later for interesting stories about {formatFoodName(foodInfo.food_name)}!
+                        Check back later for interesting stories about {getFormattedFoodName(foodInfo.food_name)}!
                       </p>
                     </div>
                   )}
@@ -429,7 +433,7 @@ export default function FoodDetailPage() {
                       {/* Recipe Header */}
                       <div className="mb-6">
                         <h2 className="text-2xl font-bold text-gray-900 mb-2">
-                          {foodInfo.recipe.title || formatFoodName(foodInfo.food_name)}
+                          {getFormattedFoodName(foodInfo.food_name)}
                         </h2>
                         {foodInfo.recipe.description && (
                           <p className="text-gray-600">{foodInfo.recipe.description}</p>
@@ -682,7 +686,7 @@ export default function FoodDetailPage() {
               {activeTab === 'restaurants' && restaurants && (
                 <div>
                   <h2 className="text-2xl font-bold text-gray-900 mb-6">
-                    Recommended Restaurants ({restaurants.total_count})
+                    {t('recommendedRestaurants')} - {getFormattedFoodName(foodInfo.food_name)}
                   </h2>
                   
                   {restaurants.restaurants.length === 0 ? (
@@ -798,7 +802,7 @@ export default function FoodDetailPage() {
                                   className="inline-flex items-center gap-2 px-6 py-3 bg-primary-600 text-white font-medium rounded-lg hover:bg-primary-700 transition-colors shadow-md hover:shadow-lg"
                                 >
                                   <span className="text-xl">🗺️</span>
-                                  <span>Open in Google Maps</span>
+                                  <span>{t('openInGoogleMaps')}</span>
                                   <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14" />
                                   </svg>
@@ -821,7 +825,7 @@ export default function FoodDetailPage() {
               onClick={() => router.push('/')}
               className="btn btn-outline text-lg px-8 py-3"
             >
-              🔄 Try Another Dish
+              🔄 {t('tryAnotherDish')}
             </button>
           </div>
         </div>

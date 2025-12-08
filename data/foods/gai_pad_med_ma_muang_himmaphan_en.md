@@ -75,7 +75,7 @@ Transfer to a plate and serve hot with steamed rice. The cashews should remain c
 - Total: 30 minutes
 
 ### Difficulty Level
-⭐⭐ (2/5 stars) - Easy
+⭐⭐☆☆☆ (2/5 stars) - Easy
 
 ### 💡 Tips and Notes
 

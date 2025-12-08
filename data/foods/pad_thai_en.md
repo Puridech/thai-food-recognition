@@ -1,7 +1,6 @@
 # Pad Thai (ผัดไทย)
 
 ## 📖 General Information
-
 - **Thai Name**: ผัดไทย (Pad Thai)
 - **English Name**: Thai Stir-Fried Noodles, Pad Thai
 - **Region of Origin**: Central Thailand (Bangkok)
@@ -22,7 +21,7 @@ Today, Pad Thai has achieved international acclaim, frequently ranking among the
 
 ### Ingredients (serves 2)
 
-**Main Ingredients:**
+#### Main Ingredients
 - 200g rice noodles (sen chan/Pad Thai noodles) - soaked in warm water until pliable
 - 8-10 fresh prawns/shrimp (peeled, deveined)
 - 100g firm tofu (diced small)
@@ -31,7 +30,7 @@ Today, Pad Thai has achieved international acclaim, frequently ranking among the
 - 2 tablespoons dried shrimp (rinsed clean)
 - 2 tablespoons preserved radish (chai poh), finely chopped
 
-**Seasonings:**
+#### Seasonings
 - 3-4 cloves garlic (minced)
 - 3-4 tablespoons vegetable oil
 - 3 tablespoons tamarind paste/concentrate
@@ -39,7 +38,7 @@ Today, Pad Thai has achieved international acclaim, frequently ranking among the
 - 2-3 tablespoons palm sugar (or brown sugar)
 - 1/2 teaspoon chili powder (optional)
 
-**Garnishes:**
+#### Garnishes
 - 1-2 stalks spring onions, cut into sections
 - 5-6 stalks Chinese chives (garlic chives), cut into sections (if available)
 - 2 tablespoons crushed roasted peanuts
@@ -49,29 +48,31 @@ Today, Pad Thai has achieved international acclaim, frequently ranking among the
 
 ### Cooking Instructions
 
-1. **Prepare ingredients and make sauce** - Soak rice noodles in warm water for 10-15 minutes until pliable but still slightly firm. Be careful not to oversoak or they'll become mushy. In a small bowl, mix tamarind paste, fish sauce, and palm sugar. Stir until sugar dissolves completely. Taste to achieve a balanced sweet, sour, and salty flavor - this sauce mixture is the key to delicious Pad Thai. The ideal ratio is approximately 3 parts sugar : 2 parts tamarind : 1 part fish sauce.
+**Step 1: Prepare ingredients and make sauce**
+Soak rice noodles in warm water for 10-15 minutes until pliable but still slightly firm. Be careful not to oversoak or they'll become mushy. In a small bowl, mix tamarind paste, fish sauce, and palm sugar. Stir until sugar dissolves completely. Taste to achieve a balanced sweet, sour, and salty flavor - this sauce mixture is the key to delicious Pad Thai. The ideal ratio is approximately 3 parts sugar : 2 parts tamarind : 1 part fish sauce.
 
-2. **Stir-fry garlic and tofu** - Heat a wok over high heat. Add 2 tablespoons of oil and wait until it's very hot. Add minced garlic and stir-fry until fragrant. Add the diced firm tofu and stir-fry until the tofu begins to turn golden and slightly crispy. Add dried shrimp and preserved radish, continuing to stir-fry until aromatic.
+**Step 2: Stir-fry garlic and tofu**
+Heat a wok over high heat. Add 2 tablespoons of oil and wait until it's very hot. Add minced garlic and stir-fry until fragrant. Add the diced firm tofu and stir-fry until the tofu begins to turn golden and slightly crispy. Add dried shrimp and preserved radish, continuing to stir-fry until aromatic.
 
-3. **Cook prawns and make eggs** - Push everything to one side of the wok. Add a little more oil to the empty space. Add fresh prawns and stir-fry until they begin to cook through. Push prawns to the side. Crack eggs into the center of the wok, use a spatula to break and scramble them. Let the eggs set slightly, then mix with all the other ingredients.
+**Step 3: Cook prawns and make eggs**
+Push everything to one side of the wok. Add a little more oil to the empty space. Add fresh prawns and stir-fry until they begin to cook through. Push prawns to the side. Crack eggs into the center of the wok, use a spatula to break and scramble them. Let the eggs set slightly, then mix with all the other ingredients.
 
-4. **Add noodles and season** - Add the soaked rice noodles, draining excess water first. Gently stir-fry to soften the noodles and incorporate them with other ingredients. Pour the prepared sauce over gradually, stirring continuously so the noodles absorb the flavors evenly. Use the spatula to gently flip and toss the noodles - don't use too much force or they'll break. Continue stir-frying until noodles are tender, glossy with a light brown color, and no longer sticking to the wok.
+**Step 4: Add noodles and season** - Add the soaked rice noodles, draining excess water first. Gently stir-fry to soften the noodles and incorporate them with other ingredients. Pour the prepared sauce over gradually, stirring continuously so the noodles absorb the flavors evenly. Use the spatula to gently flip and toss the noodles - don't use too much force or they'll break. Continue stir-frying until noodles are tender, glossy with a light brown color, and no longer sticking to the wok.
 
-5. **Add bean sprouts and chives** - Add about half a cup of bean sprouts (save the other half for serving fresh) along with spring onions and Chinese chives. Stir-fry quickly just until they wilt slightly. Don't cook too long or the bean sprouts will become limp and release water. Taste once more - if too bland add fish sauce, if too sour add sugar. Adjust until you achieve your preferred flavor.
+**Step 5: Add bean sprouts and chives** - Add about half a cup of bean sprouts (save the other half for serving fresh) along with spring onions and Chinese chives. Stir-fry quickly just until they wilt slightly. Don't cook too long or the bean sprouts will become limp and release water. Taste once more - if too bland add fish sauce, if too sour add sugar. Adjust until you achieve your preferred flavor.
 
-6. **Plate and garnish** - Transfer Pad Thai to a serving plate, arranging it attractively. Sprinkle with crushed peanuts, chili powder (if desired), and place half a lime on the side.
+**Step 6: Plate and garnish** - Transfer Pad Thai to a serving plate, arranging it attractively. Sprinkle with crushed peanuts, chili powder (if desired), and place half a lime on the side.
 
-7. **Serve with accompaniments** - Serve immediately with fresh bean sprouts, Chinese chive flowers, and lime wedges. Diners can squeeze lime and adjust seasoning to their preference.
+**Step 7: Serve with accompaniments** - Serve immediately with fresh bean sprouts, Chinese chive flowers, and lime wedges. Diners can squeeze lime and adjust seasoning to their preference.
 
 ### Cooking Time
-
-- **Prep time**: 15-20 minutes (including soaking noodles)
-- **Cook time**: 8-12 minutes
-- **Total time**: 25-35 minutes
+- Prep time: 15-20 minutes (including soaking noodles)
+- Cook time: 8-12 minutes
+- Total: 25-35 minutes
 
 ### Difficulty Level
 
-⭐⭐⭐☆☆ (Medium)
+⭐⭐⭐☆☆  (3/5 stars) - Medium
 
 ### 💡 Tips and Notes
 

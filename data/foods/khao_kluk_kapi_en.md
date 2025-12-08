@@ -1,7 +1,6 @@
 # Khao Kluk Kapi (ข้าวคลุกกะปิ)
 
 ## 📖 General Information
-
 - **Thai Name**: ข้าวคลุกกะปิ (Khao Kluk Kapi)
 - **English Name**: Rice Mixed with Shrimp Paste / Shrimp Paste Fried Rice
 - **Region**: Central Thailand
@@ -22,16 +21,16 @@ Today, Khao Kluk Kapi has become one of Thailand's most celebrated dishes both d
 
 ### Ingredients (serves 2-3)
 
-**Main Ingredients**:
+#### Main Ingredients
 - 3 cups hot cooked jasmine rice
 - 2-3 tablespoons roasted shrimp paste (kapi)
 - 3 tablespoons vegetable oil
 
-**Seasonings**:
+#### Seasonings
 - 2 tablespoons palm sugar or granulated sugar
 - 2 tablespoons fresh lime juice
 
-**Accompaniments**:
+#### Accompaniments
 - 1/2 cup sweet pork floss (mu yong)
 - 2 eggs, made into thin omelets and julienned
 - 1/2 cup roasted or fried peanuts
@@ -46,33 +45,37 @@ Today, Khao Kluk Kapi has become one of Thailand's most celebrated dishes both d
 
 ### Cooking Instructions
 
-1. **Prepare roasted shrimp paste**: If using raw shrimp paste, roast it in a dry pan over low heat until fragrant and well-cooked (about 5-7 minutes). Roast until the paste turns dark brown and aromatic, being careful not to burn it. Remove from heat and blend or pound until fine. (Alternatively, use pre-roasted shrimp paste.)
+**Step 1: Prepare roasted shrimp paste**
+If using raw shrimp paste, roast it in a dry pan over low heat until fragrant and well-cooked (about 5-7 minutes). Roast until the paste turns dark brown and aromatic, being careful not to burn it. Remove from heat and blend or pound until fine. (Alternatively, use pre-roasted shrimp paste.)
 
-2. **Make shrimp paste sauce**: Heat 3 tablespoons vegetable oil in a pan over low heat. Add the pounded roasted shrimp paste and stir-fry to combine with the oil. Add palm sugar and stir-fry until sugar dissolves completely and the flavor is well-balanced between salty and sweet. Remove from heat and let cool. Add lime juice and stir well. Taste and adjust with more sugar or lime juice as needed.
+**Step 2: Make shrimp paste sauce**
+Heat 3 tablespoons vegetable oil in a pan over low heat. Add the pounded roasted shrimp paste and stir-fry to combine with the oil. Add palm sugar and stir-fry until sugar dissolves completely and the flavor is well-balanced between salty and sweet. Remove from heat and let cool. Add lime juice and stir well. Taste and adjust with more sugar or lime juice as needed.
 
-3. **Prepare accompaniments**:
-   - Make 2 thin omelets, roll them up when cooked, and julienne
-   - Deep-fry dried shrimp in hot oil until crispy; drain excess oil
-   - Fry julienned shallots until golden and crispy; drain
-   - Roast or fry peanuts until fragrant and crispy
-   - Prepare vegetables and fruits: dice long beans, julienne green mango, peel and julienne ginger, thinly slice chilies
-   - Wash betel leaves thoroughly and pat dry
+**Step 3: Prepare accompaniments**
+- Make 2 thin omelets, roll them up when cooked, and julienne
+- Deep-fry dried shrimp in hot oil until crispy; drain excess oil
+- Fry julienned shallots until golden and crispy; drain
+- Roast or fry peanuts until fragrant and crispy
+- Prepare vegetables and fruits: dice long beans, julienne green mango, peel and julienne ginger, thinly slice chilies
+- Wash betel leaves thoroughly and pat dry
 
-4. **Mix rice with shrimp paste**: Place hot cooked rice in a large bowl. Pour the prepared shrimp paste sauce over the rice. Mix thoroughly until the rice is evenly coated with the sauce. The rice should be light brown with a glossy sheen and smell fragrant of shrimp paste and lime. Taste to ensure proper seasoning; if too bland, add a little more sauce.
+**Step 4: Mix rice with shrimp paste**
+Place hot cooked rice in a large bowl. Pour the prepared shrimp paste sauce over the rice. Mix thoroughly until the rice is evenly coated with the sauce. The rice should be light brown with a glossy sheen and smell fragrant of shrimp paste and lime. Taste to ensure proper seasoning; if too bland, add a little more sauce.
 
-5. **Arrange for serving**: Transfer the mixed rice to a central serving plate or special compartmentalized dish. Arrange all accompaniments attractively around the rice: sweet pork floss, julienned omelet, peanuts, dried shrimp, fried shallots, sliced chilies, diced long beans, green mango, ginger julienne, and betel leaves. Place lime wedges on the side.
+**Step 5: Arrange for serving**
+Transfer the mixed rice to a central serving plate or special compartmentalized dish. Arrange all accompaniments attractively around the rice: sweet pork floss, julienned omelet, peanuts, dried shrimp, fried shallots, sliced chilies, diced long beans, green mango, ginger julienne, and betel leaves. Place lime wedges on the side.
 
-6. **How to eat**: Take a portion of the shrimp paste rice. Add various accompaniments according to your preference (traditionally, you add all of them). Squeeze a little lime juice and mix everything together. Spoon the mixture onto a betel leaf, wrap it, and eat it in one bite. The betel leaf provides a refreshing herbal note that balances the bold flavors and adds aromatic freshness.
+**Step 6: How to eat**
+Take a portion of the shrimp paste rice. Add various accompaniments according to your preference (traditionally, you add all of them). Squeeze a little lime juice and mix everything together. Spoon the mixture onto a betel leaf, wrap it, and eat it in one bite. The betel leaf provides a refreshing herbal note that balances the bold flavors and adds aromatic freshness.
 
 ### Cooking Time
-
-- **Prep time**: 30-40 minutes
-- **Cook time**: 20 minutes
-- **Total time**: 50-60 minutes
+- Prep time: 30-40 minutes
+- Cook time: 20 minutes
+- Total: 50-60 minutes
 
 ### Difficulty Level
 
-⭐⭐⭐⭐ (4/5) - Quite difficult (many accompaniments require separate preparation)
+⭐⭐⭐⭐☆ (4/5 stars) - Quite difficult
 
 ### 💡 Tips and Notes
 

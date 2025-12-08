@@ -68,7 +68,7 @@ Scoop the coconut milk-absorbed sticky rice onto a plate and shape into an attra
 - Total: 60 minutes (plus rice soaking time)
 
 ### Difficulty Level
-⭐⭐ (2/5 stars) - Easy
+⭐⭐☆☆☆ (2/5 stars) - Easy
 
 ### 💡 Tips and Notes
 

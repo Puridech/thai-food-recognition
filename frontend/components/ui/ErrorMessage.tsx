@@ -1,6 +1,6 @@
 'use client';
 
-import { FiAlertTriangle, FiX } from 'react-icons/fi';
+import { FiX } from 'react-icons/fi';
 
 interface ErrorMessageProps {
   title?: string;

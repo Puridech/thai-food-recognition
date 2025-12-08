@@ -80,7 +80,7 @@ Garnish with fresh cilantro and ground white pepper or lightly crushed whole pep
 - Total: 40 minutes
 
 ### Difficulty Level
-⭐⭐⭐ (3/5 stars) - Intermediate
+⭐⭐⭐☆☆ (3/5 stars) - Intermediate
 
 ### 💡 Tips and Notes
 

@@ -85,7 +85,7 @@ Place sliced cucumber on the side. Serve with the dipping sauce in a small bowl 
 - Total: 65 minutes (approximately 1 hour)
 
 ### Difficulty Level
-⭐⭐⭐ (3/5 stars) - Intermediate
+⭐⭐⭐☆☆ (3/5 stars) - Intermediate
 
 ### 💡 Tips and Notes
 

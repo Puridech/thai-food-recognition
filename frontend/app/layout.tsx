@@ -17,6 +17,10 @@ export const metadata: Metadata = {
   title: "Thai Food Recognition - Discover Thai Cuisine with AI",
   description: "AI-powered Thai food recognition system with cultural stories, authentic recipes, and restaurant recommendations",
   keywords: ["Thai food", "food recognition", "AI", "machine learning", "Thai cuisine", "recipes"],
+  icons: {
+    icon: '/favicon.svg',
+    apple: '/logo.svg',
+  },
 };
 
 export default function RootLayout({

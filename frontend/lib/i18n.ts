@@ -83,6 +83,50 @@ const resources = {
       // Footer
       madeWith: 'Made with',
       by: 'by',
+      
+      // Home Page Features
+      aiRecognition: 'AI Recognition',
+      aiRecognitionDesc: '96% accuracy with hybrid 2-layer AI system',
+      culturalStories: 'Cultural Stories',
+      culturalStoriesDesc: 'Learn the history and traditions behind each dish',
+      authenticRecipes: 'Authentic Recipes',
+      authenticRecipesDesc: 'Authentic recipes with step-by-step instructions',
+      supportedDishes: 'Supported Thai Dishes (20 Menus)',
+      showMore: 'more...',
+      
+      // Recognition Page
+      successfullyIdentified: 'Successfully Identified',
+      processingTime: 'Processing Time',
+      status: 'Status',
+      success: 'Success',
+      viewFullDetails: 'View Full Details',
+      tryAnotherDish: 'Try Another Dish',
+      
+      // History Page
+      searchHistory: 'Search History',
+      searchesFound: 'searches found',
+      searchFound: 'search found',
+      searchFoodNames: 'Search food names...',
+      clearAll: 'Clear All',
+      found: 'Found',
+      result: 'result',
+      results: 'results',
+      noResultsFound: 'No results found',
+      noHistoryYet: 'No history yet',
+      tryDifferentSearch: 'Try a different search term',
+      startRecognizing: 'Start recognizing Thai food to build your history!',
+      clearSearch: 'Clear Search',
+      removeConfirm: 'Remove this item from history?',
+      clearAllConfirm: 'Are you sure you want to clear all history? This cannot be undone.',
+      aiSpecialist: 'AI Specialist (Layer 2)',
+      
+      // Food Detail Page
+      story: 'Story',
+      thaiCuisine: 'Thai Cuisine',
+      popularDish: 'Popular Dish',
+      authenticRecipe: 'Popular Recipes',
+      recommendedRestaurants: 'Recommended Restaurants',
+      openInGoogleMaps: 'Open in Google Maps',
     },
   },
   th: {
@@ -158,6 +202,50 @@ const resources = {
       // Footer
       madeWith: 'สร้างด้วย',
       by: 'โดย',
+      
+      // Home Page Features
+      aiRecognition: 'การจดจำด้วย AI',
+      aiRecognitionDesc: 'ความแม่นยำ 96% ด้วยระบบ AI 2 ชั้น',
+      culturalStories: 'เรื่องราววัฒนธรรม',
+      culturalStoriesDesc: 'เรียนรู้ประวัติและประเพณีที่อยู่เบื้องหลังอาหารแต่ละจาน',
+      authenticRecipes: 'สูตรอาหาร',
+      authenticRecipesDesc: 'สูตรอาหารต้นตำรับพร้อมคำแนะนำทีละขั้นตอน',
+      supportedDishes: 'เมนูอาหารไทยที่รองรับ (20 เมนู)',
+      showMore: 'เพิ่มเติม...',
+      
+      // Recognition Page
+      successfullyIdentified: 'ผลการจดจำ',
+      processingTime: 'เวลาประมวลผล',
+      status: 'สถานะ',
+      success: 'สำเร็จ',
+      viewFullDetails: 'ดูรายละเอียดเพิ่มเติม',
+      tryAnotherDish: 'ลองอีกครั้ง',
+      
+      // History Page
+      searchHistory: 'ประวัติการค้นหา',
+      searchesFound: 'ครั้งที่พบ',
+      searchFound: 'ครั้งที่พบ',
+      searchFoodNames: 'ค้นหาชื่ออาหาร...',
+      clearAll: 'ลบทั้งหมด',
+      found: 'พบ',
+      result: 'ผลลัพธ์',
+      results: 'ผลลัพธ์',
+      noResultsFound: 'ไม่พบผลลัพธ์',
+      noHistoryYet: 'ยังไม่มีประวัติ',
+      tryDifferentSearch: 'ลองค้นหาคำอื่น',
+      startRecognizing: 'เริ่มจดจำอาหารไทยเพื่อสร้างประวัติของคุณ!',
+      clearSearch: 'ล้างการค้นหา',
+      removeConfirm: 'ลบรายการนี้ออกจากประวัติ?',
+      clearAllConfirm: 'คุณแน่ใจหรือไม่ว่าต้องการลบประวัติทั้งหมด? การกระทำนี้ไม่สามารถยกเลิกได้',
+      aiSpecialist: 'ผู้เชี่ยวชาญ AI (Layer 2)',
+      
+      // Food Detail Page
+      story: 'เรื่องราว',
+      thaiCuisine: 'อาหารไทย',
+      popularDish: 'เมนูยอดนิยม',
+      authenticRecipe: 'สูตรยอดนิยม',
+      recommendedRestaurants: 'ร้านอาหารแนะนำ',
+      openInGoogleMaps: 'เปิดใน Google Maps',
     },
   },
 };

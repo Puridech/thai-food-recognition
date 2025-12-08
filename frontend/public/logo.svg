@@ -1,0 +1,53 @@
+<svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#FF6B35;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#F7931E;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background Circle -->
+  <circle cx="100" cy="100" r="95" fill="url(#bgGradient)"/>
+  
+  <!-- Bowl - Simple white circle -->
+  <circle cx="100" cy="110" r="55" fill="#FFFFFF"/>
+  
+  <!-- Bowl shadow/depth -->
+  <ellipse cx="100" cy="110" rx="48" ry="40" fill="#F5F5F5"/>
+  
+  <!-- Food inside - Orange/Yellow -->
+  <circle cx="100" cy="108" r="35" fill="#FFB800"/>
+  
+  <!-- Food highlights -->
+  <circle cx="88" cy="100" r="8" fill="#FFD700" opacity="0.8"/>
+  <circle cx="110" cy="105" r="6" fill="#FFD700" opacity="0.8"/>
+  <circle cx="100" cy="115" r="5" fill="#FFA500" opacity="0.7"/>
+  
+  <!-- Steam - Simple curved lines -->
+  <path
+    d="M 70 75 Q 65 55, 70 40"
+    stroke="#FFFFFF"
+    stroke-width="5"
+    stroke-linecap="round"
+    fill="none"
+    opacity="0.9"
+  />
+  
+  <path
+    d="M 100 70 Q 100 50, 100 30"
+    stroke="#FFFFFF"
+    stroke-width="6"
+    stroke-linecap="round"
+    fill="none"
+    opacity="0.95"
+  />
+  
+  <path
+    d="M 130 75 Q 135 55, 130 40"
+    stroke="#FFFFFF"
+    stroke-width="5"
+    stroke-linecap="round"
+    fill="none"
+    opacity="0.9"
+  />
+</svg>

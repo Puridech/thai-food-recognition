@@ -138,7 +138,7 @@ export function getRecentHistory(limit: number = 5): HistoryItem[] {
 /**
  * Format timestamp to relative time
  */
-export function formatRelativeTime(timestamp: number): string {
+export function formatRelativeTime(timestamp: number, language: 'en' | 'th' = 'en'): string {
   const now = Date.now();
   const diff = now - timestamp;
   
@@ -147,14 +147,24 @@ export function formatRelativeTime(timestamp: number): string {
   const hours = Math.floor(minutes / 60);
   const days = Math.floor(hours / 24);
   
-  if (seconds < 60) return 'Just now';
-  if (minutes < 60) return `${minutes} minute${minutes > 1 ? 's' : ''} ago`;
-  if (hours < 24) return `${hours} hour${hours > 1 ? 's' : ''} ago`;
-  if (days < 7) return `${days} day${days > 1 ? 's' : ''} ago`;
+  if (language === 'th') {
+    // Thai translations
+    if (seconds < 60) return 'เมื่อสักครู่';
+    if (minutes < 60) return `${minutes} นาทีที่แล้ว`;
+    if (hours < 24) return `${hours} ชั่วโมงที่แล้ว`;
+    if (days < 7) return `${days} วันที่แล้ว`;
+  } else {
+    // English
+    if (seconds < 60) return 'Just now';
+    if (minutes < 60) return `${minutes} minute${minutes > 1 ? 's' : ''} ago`;
+    if (hours < 24) return `${hours} hour${hours > 1 ? 's' : ''} ago`;
+    if (days < 7) return `${days} day${days > 1 ? 's' : ''} ago`;
+  }
   
   // Format as date for older items
   const date = new Date(timestamp);
-  return date.toLocaleDateString('en-US', { 
+  const locale = language === 'th' ? 'th-TH' : 'en-US';
+  return date.toLocaleDateString(locale, { 
     month: 'short', 
     day: 'numeric',
     year: date.getFullYear() !== new Date().getFullYear() ? 'numeric' : undefined
@@ -164,7 +174,36 @@ export function formatRelativeTime(timestamp: number): string {
 /**
  * Format food name for display
  */
-export function formatFoodName(name: string): string {
+export function formatFoodName(name: string, language: 'en' | 'th' = 'en'): string {
+  // Thai dish names mapping
+  const thaiNames: Record<string, string> = {
+    'som_tam': 'ส้มตำ',
+    'tom_yum_goong': 'ต้มยำกุ้ง',
+    'larb': 'ลาบ',
+    'pad_thai': 'ผัดไทย',
+    'kaeng_khiao_wan': 'แกงเขียวหวาน',
+    'khao_soi': 'ข้าวซอย',
+    'kaeng_matsaman': 'แกงมัสมั่น',
+    'pad_kra_pao': 'ผัดกะเพรา',
+    'khao_man_gai': 'ข้าวมันไก่',
+    'khao_kha_mu': 'ข้าวขาหมู',
+    'tom_kha_gai': 'ต้มข่าไก่',
+    'gai_pad_med_ma_muang_himmaphan': 'ไก่ผัดเม็ดมะม่วงหิมพานต์',
+    'kai_palo': 'ไข่พะโล้',
+    'gung_ob_woon_sen': 'กุ้งอบวุ้นเส้น',
+    'khao_kluk_kapi': 'ข้าวคลุกกะปิ',
+    'por_pia_tod': 'ปอเปี๊ยะทอด',
+    'hor_mok': 'ห่อหมก',
+    'khao_niao_mamuang': 'ข้าวเหนียวมะม่วง',
+    'khanom_krok': 'ขนมครก',
+    'foi_thong': 'ฝอยทอง',
+  };
+  
+  if (language === 'th' && thaiNames[name.toLowerCase()]) {
+    return thaiNames[name.toLowerCase()];
+  }
+  
+  // English: Convert snake_case to Title Case
   return name
     .split('_')
     .map(word => word.charAt(0).toUpperCase() + word.slice(1))
@@ -218,7 +257,7 @@ export function isStorageNearLimit(): boolean {
     const totalSize = getStorageSize();
     const limitKB = 8 * 1024; // 8MB in KB
     return totalSize > limitKB;
-  } catch (error) {
+  } catch {
     return false;
   }
 }

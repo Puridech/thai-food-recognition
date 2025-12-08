@@ -11,13 +11,74 @@ import { apiClient } from '@/lib/api-client';
 import { addToHistory } from '@/lib/history';
 import type { RecognitionResponse } from '@/types/api';
 
+// Supported Dishes Component
+function SupportedDishes() {
+  const { t, i18n } = useTranslation();
+  const [showAll, setShowAll] = useState(false);
+
+  const allDishes = [
+    { emoji: '🥗', en: 'Som Tam', th: 'ส้มตำ', name: 'som_tam' },
+    { emoji: '🍲', en: 'Tom Yum Goong', th: 'ต้มยำกุ้ง', name: 'tom_yum_goong' },
+    { emoji: '🥙', en: 'Larb', th: 'ลาบ', name: 'larb' },
+    { emoji: '🍜', en: 'Pad Thai', th: 'ผัดไทย', name: 'pad_thai' },
+    { emoji: '🍛', en: 'Green Curry', th: 'แกงเขียวหวาน', name: 'kaeng_khiao_wan' },
+    { emoji: '🍜', en: 'Khao Soi', th: 'ข้าวซอย', name: 'khao_soi' },
+    { emoji: '🍛', en: 'Massaman Curry', th: 'แกงมัสมั่น', name: 'kaeng_matsaman' },
+    { emoji: '🍛', en: 'Pad Kra Pao', th: 'ผัดกะเพรา', name: 'pad_kra_pao' },
+    { emoji: '🍗', en: 'Khao Man Gai', th: 'ข้าวมันไก่', name: 'khao_man_gai' },
+    { emoji: '🍖', en: 'Khao Kha Mu', th: 'ข้าวขาหมู', name: 'khao_kha_mu' },
+    { emoji: '🥥', en: 'Tom Kha Gai', th: 'ต้มข่าไก่', name: 'tom_kha_gai' },
+    { emoji: '🥜', en: 'Thai Cashew Chicken', th: 'ไก่ผัดเม็ดมะม่วง', name: 'gai_pad_med_ma_muang_himmaphan' },
+    { emoji: '🥚', en: 'Kai Palo', th: 'ไข่พะโล้', name: 'kai_palo' },
+    { emoji: '🦐', en: 'Gung Ob Woon Sen', th: 'กุ้งอบวุ้นเส้น', name: 'gung_ob_woon_sen' },
+    { emoji: '🍚', en: 'Khao Kluk Kapi', th: 'ข้าวคลุกกะปิ', name: 'khao_kluk_kapi' },
+    { emoji: '🥟', en: 'Por Pia Tod', th: 'ปอเปี๊ยะทอด', name: 'por_pia_tod' },
+    { emoji: '🫔', en: 'Hor Mok', th: 'ห่อหมก', name: 'hor_mok' },
+    { emoji: '🥭', en: 'Mango Sticky Rice', th: 'ข้าวเหนียวมะม่วง', name: 'khao_niao_mamuang' },
+    { emoji: '🥞', en: 'Khanom Krok', th: 'ขนมครก', name: 'khanom_krok' },
+    { emoji: '🍯', en: 'Foi Thong', th: 'ฝอยทอง', name: 'foi_thong' },
+  ];
+
+  const visibleDishes = showAll ? allDishes : allDishes.slice(0, 8);
+
+  return (
+    <div>
+      <div className="flex flex-wrap justify-center gap-3">
+        {visibleDishes.map((dish, index) => (
+          <span
+            key={index}
+            className="px-4 py-2 bg-white rounded-full shadow-md text-gray-700 font-medium hover:shadow-lg transition-shadow cursor-default"
+          >
+            {dish.emoji} {i18n.language === 'th' ? dish.th : dish.en}
+          </span>
+        ))}
+        {!showAll && (
+          <button
+            onClick={() => setShowAll(true)}
+            className="px-4 py-2 bg-primary-100 text-primary-700 rounded-full shadow-md font-medium hover:bg-primary-200 transition-colors"
+          >
+            +{allDishes.length - 8} {t('showMore')}
+          </button>
+        )}
+      </div>
+      {showAll && (
+        <button
+          onClick={() => setShowAll(false)}
+          className="mt-4 px-6 py-2 text-gray-600 hover:text-gray-800 transition-colors"
+        >
+          {i18n.language === 'th' ? 'แสดงน้อยลง' : 'Show Less'}
+        </button>
+      )}
+    </div>
+  );
+}
+
 export default function Home() {
   const router = useRouter();
   const { t, i18n } = useTranslation();
   const [isLoading, setIsLoading] = useState(false);
   const [result, setResult] = useState<RecognitionResponse | null>(null);
   const [error, setError] = useState<string | null>(null);
-  const [selectedFile, setSelectedFile] = useState<File | null>(null);
 
   useEffect(() => {
     // Initialize i18n on client side
@@ -69,7 +130,6 @@ export default function Home() {
 
   // Handle image selection and recognition
   const handleImageSelect = async (file: File) => {
-    setSelectedFile(file);
     setError(null);
     setResult(null);
     setIsLoading(true);
@@ -115,7 +175,6 @@ export default function Home() {
 
   // Clear all and start over
   const handleClear = () => {
-    setSelectedFile(null);
     setResult(null);
     setError(null);
   };
@@ -203,30 +262,30 @@ export default function Home() {
             <div className="card p-6 text-center hover:shadow-xl transition-shadow">
               <div className="text-5xl mb-4">🎯</div>
               <h3 className="text-xl font-semibold text-gray-800 mb-2">
-                AI Recognition
+                {t('aiRecognition')}
               </h3>
               <p className="text-gray-600">
-                96% accuracy with hybrid 2-layer AI system
+                {t('aiRecognitionDesc')}
               </p>
             </div>
             
             <div className="card p-6 text-center hover:shadow-xl transition-shadow">
               <div className="text-5xl mb-4">📖</div>
               <h3 className="text-xl font-semibold text-gray-800 mb-2">
-                {t('culturalStory')}
+                {t('culturalStories')}
               </h3>
               <p className="text-gray-600">
-                Learn the history and traditions behind each dish
+                {t('culturalStoriesDesc')}
               </p>
             </div>
             
             <div className="card p-6 text-center hover:shadow-xl transition-shadow">
               <div className="text-5xl mb-4">👨‍🍳</div>
               <h3 className="text-xl font-semibold text-gray-800 mb-2">
-                {t('recipe')}
+                {t('authenticRecipes')}
               </h3>
               <p className="text-gray-600">
-                Authentic recipes with step-by-step instructions
+                {t('authenticRecipesDesc')}
               </p>
             </div>
           </div>
@@ -234,30 +293,9 @@ export default function Home() {
           {/* Supported Dishes Preview */}
           <div className="mt-12 text-center">
             <h3 className="text-2xl font-bold text-gray-800 mb-6">
-              Supported Thai Dishes (20 Menus)
+              {t('supportedDishes')}
             </h3>
-            <div className="flex flex-wrap justify-center gap-3">
-              {[
-                '🍜 Pad Thai',
-                '🍲 Tom Yum Goong',
-                '🥗 Som Tam',
-                '🍛 Green Curry',
-                '🍗 Gai Yang',
-                '🥘 Massaman Curry',
-                '🍚 Khao Pad',
-                '🍜 Pad Krapow',
-              ].map((dish, index) => (
-                <span
-                  key={index}
-                  className="px-4 py-2 bg-white rounded-full shadow-md text-gray-700 font-medium"
-                >
-                  {dish}
-                </span>
-              ))}
-              <span className="px-4 py-2 bg-primary-100 text-primary-700 rounded-full shadow-md font-medium">
-                + 12 more...
-              </span>
-            </div>
+            <SupportedDishes />
           </div>
         </div>
       </main>
@@ -266,10 +304,10 @@ export default function Home() {
       <footer className="bg-white border-t mt-12">
         <div className="container-custom py-6 text-center text-gray-600">
           <p>
-            {t('madeWith')} ❤️ {t('by')} Hokkaido Information University
+            ⛩️{t('madeWith')} {t('by')} Puridech Khunpring⛩️
           </p>
           <p className="text-sm mt-2">
-            8-Week Internship Project • 2024-2025
+            ⛩️13-Week Internship Project at Hokkaido Information University⛩️
           </p>
         </div>
       </footer>

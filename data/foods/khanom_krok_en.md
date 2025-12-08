@@ -73,7 +73,7 @@ Use a spoon or small spatula to carefully remove the Khanom Krok from the indent
 - Total: 50 minutes
 
 ### Difficulty Level
-⭐⭐⭐ (3/5 stars) - Intermediate
+⭐⭐⭐☆☆ (3/5 stars) - Intermediate
 
 ### 💡 Tips and Notes
 

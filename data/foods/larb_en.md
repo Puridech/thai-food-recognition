@@ -1,7 +1,6 @@
 # Larb (ลาบ)
 
 ## 📖 General Information
-
 - **Thai Name**: ลาบ (Larb, Laab, Larp)
 - **English Name**: Spicy Minced Meat Salad, Thai Minced Meat with Herbs
 - **Region of Origin**: Northeastern Thailand (Isan) and Northern Thailand (Lanna)
@@ -22,11 +21,11 @@ Larb demonstrates the wisdom of Thai herbal cuisine. The toasted rice powder kee
 
 ### Ingredients (serves 2-3)
 
-**Main Ingredients:**
+#### Main Ingredients
 - 300g minced pork or finely chopped pork (or substitute chicken, duck)
 - 1/4 cup water or stock (for cooking the meat)
 
-**Seasonings:**
+#### Seasonings
 - 2-3 tablespoons toasted rice powder (khao khua)
 - 1-2 teaspoons chili powder (adjust to heat preference)
 - 2-3 tablespoons fish sauce
@@ -38,35 +37,41 @@ Larb demonstrates the wisdom of Thai herbal cuisine. The toasted rice powder kee
 - 3-4 kaffir lime leaves, finely julienned (if available)
 - Fresh mint leaves (if available)
 
-**Garnishes/Vegetables:**
+#### Garnishes/Vegetables
 - Fresh vegetable platter (cabbage, white cabbage, long beans, cucumber, Thai basil)
 - Sticky rice (for serving)
 
 ### Cooking Instructions
 
-1. **Prepare toasted rice powder** - Toast 2-3 tablespoons of sticky rice or jasmine rice in a dry pan over low heat without oil. Toast until the rice turns golden brown and aromatic, being careful not to burn it. Remove from heat and let cool, then pound or grind into a moderately coarse powder - not too fine like flour. The toasted rice provides a nutty aroma and pleasant grainy texture to the Larb.
+**Step 1: Prepare toasted rice powder**
+Toast 2-3 tablespoons of sticky rice or jasmine rice in a dry pan over low heat without oil. Toast until the rice turns golden brown and aromatic, being careful not to burn it. Remove from heat and let cool, then pound or grind into a moderately coarse powder - not too fine like flour. The toasted rice provides a nutty aroma and pleasant grainy texture to the Larb.
 
-2. **Cook the meat** - Bring 1/4 cup of water to a boil in a pot. Add the minced pork and use a spatula to break up the meat and ensure even cooking. Cook for about 3-5 minutes until the meat is thoroughly cooked with no pink remaining. If the water evaporates too quickly, add a little more, but avoid having too much liquid as this will make the Larb watery. Turn off heat and let the meat cool slightly.
+**Step 2: Cook the meat**
+Bring 1/4 cup of water to a boil in a pot. Add the minced pork and use a spatula to break up the meat and ensure even cooking. Cook for about 3-5 minutes until the meat is thoroughly cooked with no pink remaining. If the water evaporates too quickly, add a little more, but avoid having too much liquid as this will make the Larb watery. Turn off heat and let the meat cool slightly.
 
-3. **Season the Larb** - Transfer the cooked pork to a large mixing bowl. Season with fish sauce and lime juice. Taste to achieve a balanced salty and sour flavor. Add a small amount of sugar to help round out the flavors. Mix thoroughly to combine.
+**Step 3: Season the Larb**
+Transfer the cooked pork to a large mixing bowl. Season with fish sauce and lime juice. Taste to achieve a balanced salty and sour flavor. Add a small amount of sugar to help round out the flavors. Mix thoroughly to combine.
 
-4. **Add toasted rice and chili powder** - Add the toasted rice powder and chili powder. Mix well to distribute evenly. The toasted rice absorbs excess moisture and provides aromatic crunch, while the chili powder delivers penetrating heat throughout the meat. Taste again and adjust seasoning to your preference.
+**Step 4: Add toasted rice and chili powder**
+Add the toasted rice powder and chili powder. Mix well to distribute evenly. The toasted rice absorbs excess moisture and provides aromatic crunch, while the chili powder delivers penetrating heat throughout the meat. Taste again and adjust seasoning to your preference.
 
-5. **Add herbs and aromatics** - Add the sliced spring onions, saw-tooth coriander, sliced shallots, julienned kaffir lime leaves, and mint leaves. Gently toss to combine without overmixing, as this can bruise and wilt the herbs. The fresh herbs provide aromatic freshness that defines authentic Larb.
+**Step 5: Add herbs and aromatics**
+Add the sliced spring onions, saw-tooth coriander, sliced shallots, julienned kaffir lime leaves, and mint leaves. Gently toss to combine without overmixing, as this can bruise and wilt the herbs. The fresh herbs provide aromatic freshness that defines authentic Larb.
 
-6. **Final taste adjustment** - Taste one final time. The Larb should have a harmonious balance of spicy, sour, salty, and aromatic flavors. If too salty, add more lime juice. If too sour, add more fish sauce or sugar. If too spicy, add more toasted rice powder. Adjust until you achieve your preferred flavor profile.
+**Step 6: Final taste adjustment**
+Taste one final time. The Larb should have a harmonious balance of spicy, sour, salty, and aromatic flavors. If too salty, add more lime juice. If too sour, add more fish sauce or sugar. If too spicy, add more toasted rice powder. Adjust until you achieve your preferred flavor profile.
 
-7. **Serve immediately** - Transfer to a serving plate and serve right away with fresh vegetables and warm sticky rice. Larb is best enjoyed while still slightly warm to experience its optimal flavor and texture.
+**Step 7: Serve immediately**
+Transfer to a serving plate and serve right away with fresh vegetables and warm sticky rice. Larb is best enjoyed while still slightly warm to experience its optimal flavor and texture.
 
 ### Cooking Time
-
-- **Prep time**: 10-15 minutes (including toasting rice)
-- **Cook time**: 10-15 minutes
-- **Total time**: 20-30 minutes
+- Prep time: 10-15 minutes (including toasting rice)
+- Cook time: 10-15 minutes
+- Total: 20-30 minutes
 
 ### Difficulty Level
 
-⭐⭐☆☆☆ (Easy to Medium)
+⭐⭐☆☆☆ (2/5 stars) - Easy to Medium
 
 ### 💡 Tips and Notes
 

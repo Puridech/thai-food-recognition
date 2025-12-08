@@ -1,7 +1,6 @@
 # Kaeng Khiao Wan (แกงเขียวหวาน)
 
 ## 📖 General Information
-
 - **Thai Name**: แกงเขียวหวาน (Kaeng Khiao Wan)
 - **English Name**: Green Curry, Thai Green Curry
 - **Region of Origin**: Central Thailand (during King Rama V-VI era)
@@ -22,14 +21,14 @@ Green Curry has achieved global recognition as one of the most popular Thai dish
 
 ### Ingredients (serves 2-3)
 
-**Main Ingredients:**
+#### Main Ingredients
 - 300g chicken, cut into bite-sized pieces (or substitute other proteins)
 - 2 cups coconut milk (separate 1/2 cup thick cream for frying curry paste)
 - 1/2 cup Thai pea eggplants
 - 4-5 Thai long eggplants, sliced
 - 5-6 sweet basil leaves, torn in half
 
-**Curry Paste and Seasonings:**
+#### Curry Paste and Seasonings
 - 2 tablespoons vegetable oil
 - 3-4 tablespoons green curry paste
 - 2-3 tablespoons fish sauce
@@ -37,36 +36,42 @@ Green Curry has achieved global recognition as one of the most popular Thai dish
 - 4-5 kaffir lime leaves (tear out center vein)
 - 5-7 bird's eye chilies (lightly crushed)
 
-**Garnishes:**
+#### Garnishes
 - 1/2 cup Thai sweet basil leaves
 - 1 large red chili, sliced diagonally (for garnish)
 - Steamed jasmine rice (for serving)
 
 ### Cooking Instructions
 
-1. **Prepare ingredients** - Cut chicken into bite-sized pieces. Wash and prepare all vegetables. Separate coconut milk into 2 portions: 1/2 cup thick coconut cream (the rich, fatty layer) and 1.5 cups thin coconut milk (the watery portion). If using store-bought curry paste, choose a quality brand. If making paste from scratch, pound all herbs finely and thoroughly.
+**Step 1: Prepare ingredients**
+Cut chicken into bite-sized pieces. Wash and prepare all vegetables. Separate coconut milk into 2 portions: 1/2 cup thick coconut cream (the rich, fatty layer) and 1.5 cups thin coconut milk (the watery portion). If using store-bought curry paste, choose a quality brand. If making paste from scratch, pound all herbs finely and thoroughly.
 
-2. **Fry curry paste in coconut cream** - Heat a pot or wok over medium heat. Add 2 tablespoons vegetable oil and wait until hot. Add the thick coconut cream and stir-fry until the cream separates and oil appears on the surface (called "cracking the coconut cream"), about 3-5 minutes. Add green curry paste and continue frying until fragrant with pungent herb aromas rising, about 3-4 minutes. This step is crucial as it releases the curry's full aromatic potential and enriches the coconut flavor.
+**Step 2: Fry curry paste in coconut cream**
+Heat a pot or wok over medium heat. Add 2 tablespoons vegetable oil and wait until hot. Add the thick coconut cream and stir-fry until the cream separates and oil appears on the surface (called "cracking the coconut cream"), about 3-5 minutes. Add green curry paste and continue frying until fragrant with pungent herb aromas rising, about 3-4 minutes. This step is crucial as it releases the curry's full aromatic potential and enriches the coconut flavor.
 
-3. **Add chicken and season** - Add the cut chicken pieces and stir to coat thoroughly with curry paste. Season with fish sauce and palm sugar. Continue stir-frying until chicken is about 50-60% cooked - you'll see it changing from pink to white.
+**Step 3: Add chicken and season**
+Add the cut chicken pieces and stir to coat thoroughly with curry paste. Season with fish sauce and palm sugar. Continue stir-frying until chicken is about 50-60% cooked - you'll see it changing from pink to white.
 
-4. **Add thin coconut milk and bring to boil** - Pour in all remaining thin coconut milk and stir to combine. Increase heat to bring coconut milk to a boil. Once boiling, reduce to medium heat and simmer for 5-7 minutes to cook chicken through and allow it to absorb curry flavors. The curry should have a vibrant green color with a light oil slick on top.
+**Step 4: Add thin coconut milk and bring to boil**
+Pour in all remaining thin coconut milk and stir to combine. Increase heat to bring coconut milk to a boil. Once boiling, reduce to medium heat and simmer for 5-7 minutes to cook chicken through and allow it to absorb curry flavors. The curry should have a vibrant green color with a light oil slick on top.
 
-5. **Add vegetables and kaffir lime leaves** - Once chicken is fully cooked, add Thai eggplants (both varieties), sweet basil, kaffir lime leaves, and crushed bird's eye chilies. Simmer for another 2-3 minutes until vegetables are just tender. Don't overcook or vegetables will become mushy and lose their vibrant color. Taste and adjust - you should have balanced spicy, sweet, salty flavors with rich coconut creaminess.
+**Step 5: Add vegetables and kaffir lime leaves**
+Once chicken is fully cooked, add Thai eggplants (both varieties), sweet basil, kaffir lime leaves, and crushed bird's eye chilies. Simmer for another 2-3 minutes until vegetables are just tender. Don't overcook or vegetables will become mushy and lose their vibrant color. Taste and adjust - you should have balanced spicy, sweet, salty flavors with rich coconut creaminess.
 
-6. **Add Thai basil and turn off heat** - Add Thai sweet basil leaves and gently stir to distribute. Turn off heat immediately. The residual heat will wilt the basil, releasing its aroma while keeping the leaves bright green. Don't continue cooking or basil will wilt completely and lose its fragrance.
+**Step 6: Add Thai basil and turn off heat**
+Add Thai sweet basil leaves and gently stir to distribute. Turn off heat immediately. The residual heat will wilt the basil, releasing its aroma while keeping the leaves bright green. Don't continue cooking or basil will wilt completely and lose its fragrance.
 
-7. **Serve** - Ladle Green Curry into bowls, garnish with sliced red chili, and serve hot with steamed jasmine rice.
+**Step 7: Serve**
+Ladle Green Curry into bowls, garnish with sliced red chili, and serve hot with steamed jasmine rice.
 
 ### Cooking Time
-
-- **Prep time**: 15-20 minutes
-- **Cook time**: 20-25 minutes
-- **Total time**: 35-45 minutes
+- Prep time: 15-20 minutes
+- Cook time: 20-25 minutes
+- Total: 35-45 minutes
 
 ### Difficulty Level
 
-⭐⭐⭐☆☆ (Medium)
+⭐⭐⭐☆☆ (3/5 stars) - Medium
 
 ### 💡 Tips and Notes
 

@@ -1,7 +1,6 @@
 # Khao Soi (ข้าวซอย)
 
 ## 📖 General Information
-
 - **Thai Name**: ข้าวซอย (Khao Soi)
 - **English Name**: Northern Thai Curry Noodles, Khao Soi
 - **Region of Origin**: Northern Thailand (Lanna - Chiang Mai, Chiang Rai, Lamphun, Lampang)
@@ -22,14 +21,14 @@ Today, Khao Soi has gained popularity throughout Thailand and achieved internati
 
 ### Ingredients (serves 2-3)
 
-**Main Ingredients:**
+#### Main Ingredients
 - 300g fresh egg noodles (divide into 2 portions: 250g for boiling, 50g for frying)
 - Oil for deep frying noodles
 - 3-4 chicken drumsticks or thighs (or 300g beef)
 - 3 cups coconut milk (separate 1/2 cup thick cream)
 - 2 cups chicken stock or water
 
-**Khao Soi Curry Paste:**
+#### Khao Soi Curry Paste
 - 5-6 large dried red chilies (soaked until soft)
 - 5-6 shallots
 - 5-6 garlic cloves
@@ -42,13 +41,13 @@ Today, Khao Soi has gained popularity throughout Thailand and achieved internati
 - 2 tablespoons curry powder
 - 1 teaspoon shrimp paste
 
-**Seasonings:**
+#### Seasonings
 - 2-3 tablespoons fish sauce
 - 1-2 tablespoons palm sugar
 - 1 tablespoon tamarind paste (if available)
 - 1 tablespoon dark soy sauce
 
-**Garnishes:**
+#### Garnishes
 - Sliced shallots (pickled in vinegar)
 - Chopped pickled mustard greens
 - Lime wedges
@@ -57,29 +56,34 @@ Today, Khao Soi has gained popularity throughout Thailand and achieved internati
 
 ### Cooking Instructions
 
-1. **Prepare curry paste** - Soak dried chilies in warm water until soft, about 15-20 minutes. Place softened chilies, shallots, garlic, galangal, lemongrass, cilantro roots, white pepper, cumin, turmeric, curry powder, and shrimp paste in a blender or mortar. Grind until you achieve a smooth, fine paste. Add a little water if needed to help blend.
+**Step 1: Prepare curry paste**
+Soak dried chilies in warm water until soft, about 15-20 minutes. Place softened chilies, shallots, garlic, galangal, lemongrass, cilantro roots, white pepper, cumin, turmeric, curry powder, and shrimp paste in a blender or mortar. Grind until you achieve a smooth, fine paste. Add a little water if needed to help blend.
 
-2. **Fry curry paste and cook meat** - Heat a pot over medium heat. Add thick coconut cream and 2 tablespoons oil. Stir-fry until coconut cream separates and oil appears. Add the prepared curry paste and fry until fragrant with pungent spice aromas rising, about 5-7 minutes. Add chicken drumsticks or beef and turn to coat thoroughly with curry paste. Add 2 cups chicken stock or water. Bring to a boil, then reduce heat and simmer for 30-40 minutes until chicken or beef is tender.
+**Step 2: Fry curry paste and cook meat**
+Heat a pot over medium heat. Add thick coconut cream and 2 tablespoons oil. Stir-fry until coconut cream separates and oil appears. Add the prepared curry paste and fry until fragrant with pungent spice aromas rising, about 5-7 minutes. Add chicken drumsticks or beef and turn to coat thoroughly with curry paste. Add 2 cups chicken stock or water. Bring to a boil, then reduce heat and simmer for 30-40 minutes until chicken or beef is tender.
 
-3. **Add coconut milk and season** - Once meat is tender, pour in remaining coconut milk and stir to combine. Season with fish sauce, palm sugar, tamarind paste, and dark soy sauce. Simmer for another 10-15 minutes until curry thickens and flavors meld beautifully. Taste - you should have balanced spicy, sweet, salty flavors with rich coconut creaminess. The curry should be reddish-brown, thick, and richly aromatic.
+**Step 3: Add coconut milk and season**
+Once meat is tender, pour in remaining coconut milk and stir to combine. Season with fish sauce, palm sugar, tamarind paste, and dark soy sauce. Simmer for another 10-15 minutes until curry thickens and flavors meld beautifully. Taste - you should have balanced spicy, sweet, salty flavors with rich coconut creaminess. The curry should be reddish-brown, thick, and richly aromatic.
 
-4. **Boil and fry noodles** - Bring water to a boil. Add most of the egg noodles (250g) and boil until cooked, about 2-3 minutes. Drain and set aside. For the remaining noodles (50g), deep-fry in hot oil until crispy and golden. Drain excess oil. These crispy fried noodles will be used as a topping.
+**Step 4: Boil and fry noodles**
+Bring water to a boil. Add most of the egg noodles (250g) and boil until cooked, about 2-3 minutes. Drain and set aside. For the remaining noodles (50g), deep-fry in hot oil until crispy and golden. Drain excess oil. These crispy fried noodles will be used as a topping.
 
-5. **Assemble the dish** - Place boiled noodles in serving bowls. Ladle hot Khao Soi curry over the noodles. Add chicken pieces or beef. Top with crispy fried noodles.
+**Step 5: Assemble the dish**
+Place boiled noodles in serving bowls. Ladle hot Khao Soi curry over the noodles. Add chicken pieces or beef. Top with crispy fried noodles.
 
-6. **Arrange condiments** - Serve with pickled shallots, chopped pickled mustard greens, lime wedges, chili oil, and fresh vegetables. Let diners add according to preference.
+**Step 6: Arrange condiments**
+Serve with pickled shallots, chopped pickled mustard greens, lime wedges, chili oil, and fresh vegetables. Let diners add according to preference.
 
-7. **How to eat** - Squeeze lime juice, add pickled shallots, pickled mustard greens, and chili according to taste. Mix everything together, then enjoy both soft and crispy noodles simultaneously to experience the contrasting textures.
+**Step 7: How to eat**
+Squeeze lime juice, add pickled shallots, pickled mustard greens, and chili according to taste. Mix everything together, then enjoy both soft and crispy noodles simultaneously to experience the contrasting textures.
 
 ### Cooking Time
-
-- **Prep time**: 20-30 minutes (including soaking chilies and making curry paste)
-- **Cook time**: 50-60 minutes (including simmering meat)
-- **Total time**: 70-90 minutes (1-1.5 hours)
+- Prep time: 20-30 minutes (including soaking chilies and making curry paste)
+- Cook time: 50-60 minutes (including simmering meat)
+- Total time: 70-90 minutes (1-1.5 hours)
 
 ### Difficulty Level
-
-⭐⭐⭐⭐☆ (Moderately Difficult)
+⭐⭐⭐⭐☆ (4/5 stars) - Moderately Difficult
 
 ### 💡 Tips and Notes
 

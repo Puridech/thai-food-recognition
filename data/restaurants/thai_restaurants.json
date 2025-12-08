@@ -9,10 +9,10 @@
         "larb",
         "hor_mok"
       ],
-      "region": "กรุงเทพมหานคร",
+      "region": "กรุงเทพมหานคร/Bangkok",
       "latitude": 13.767401,
       "longitude": 100.443115,
-      "price_range": "251 - 500 บาท",
+      "price_range": "251 - 500 บาท/Bath",
       "rating": 4.3,
       "rating_source": "wongnai",
       "phone": "065-092-9690",
@@ -28,10 +28,10 @@
         "tom_yum_goong",
         "gung_ob_woon_sen"
       ],
-      "region": "กรุงเทพมหานคร",
+      "region": "กรุงเทพมหานคร/Bangkok",
       "latitude": 13.771856,
       "longitude": 100.60899,
-      "price_range": "251 - 500 บาท",
+      "price_range": "251 - 500 บาท/Bath",
       "rating": 4.2,
       "rating_source": "wongnai",
       "phone": "098-282-2371, 065-876-6555",
@@ -45,10 +45,10 @@
       "specialty": [
         "pad_thai"
       ],
-      "region": "กรุงเทพมหานคร",
+      "region": "กรุงเทพมหานคร/Bangkok",
       "latitude": 13.785433,
       "longitude": 100.570271,
-      "price_range": "< 100 บาท",
+      "price_range": "< 100 บาท/Bath",
       "rating": 4.0,
       "rating_source": "wongnai",
       "phone": "089-681-5838",
@@ -64,10 +64,10 @@
         "kaeng_massaman",
         "kai_palo"
       ],
-      "region": "นนทบุรี",
+      "region": "นนทบุรี/Nonthaburi",
       "latitude": 13.881569,
       "longitude": 100.498921,
-      "price_range": "251 - 500 บาท",
+      "price_range": "251 - 500 บาท/Bath",
       "rating": 3.9,
       "rating_source": "wongnai",
       "phone": "080-627-6544, 062-426-4688",
@@ -81,10 +81,10 @@
       "specialty": [
         "khao_soi"
       ],
-      "region": "กรุงเทพมหานคร",
+      "region": "กรุงเทพมหานคร/Bangkok",
       "latitude": 13.78119,
       "longitude": 100.544393,
-      "price_range": "251 - 500 บาท",
+      "price_range": "251 - 500 บาท/Bath",
       "rating": 3.9,
       "rating_source": "wongnai",
       "phone": "02-003-5254",
@@ -99,10 +99,10 @@
         "som_tum",
         "pad_krapow"
       ],
-      "region": "กรุงเทพมหานคร",
+      "region": "กรุงเทพมหานคร/Bangkok",
       "latitude": 13.741258,
       "longitude": 100.588874,
-      "price_range": "251 - 500 บาท",
+      "price_range": "251 - 500 บาท/Bath",
       "rating": 4.1,
       "rating_source": "wongnai",
       "phone": "086-044-9478",
@@ -116,10 +116,10 @@
       "specialty": [
         "khao_man_gai"
       ],
-      "region": "กรุงเทพมหานคร",
+      "region": "กรุงเทพมหานคร/Bangkok",
       "latitude": 13.753244,
       "longitude": 100.509417,
-      "price_range": "< 100 บาท",
+      "price_range": "< 100 บาท/Bath",
       "rating": 4.1,
       "rating_source": "wongnai",
       "phone": "02-223-2645",
@@ -133,10 +133,10 @@
       "specialty": [
         "khao_kha_mu"
       ],
-      "region": "นนทบุรี",
+      "region": "นนทบุรี/Nonthaburi",
       "latitude": 13.844888,
       "longitude": 100.470186,
-      "price_range": "< 100 บาท",
+      "price_range": "< 100 บาท/Bath",
       "rating": 4.1,
       "rating_source": "wongnai",
       "phone": "089-690-6463",
@@ -150,10 +150,10 @@
         "pad_krapow",
         "tom_kha_gai"
       ],
-      "region": "นนทบุรี",
+      "region": "นนทบุรี/Nonthaburi",
       "latitude": 13.865196,
       "longitude": 100.535668,
-      "price_range": "251 - 500 บาท",
+      "price_range": "251 - 500 บาท/Bath",
       "rating": 4.2,
       "rating_source": "wongnai",
       "phone": "02-952-9992",
@@ -171,10 +171,10 @@
         "por_pia_tod",
         "khao_niao_ma_muang"
       ],
-      "region": "กรุงเทพมหานคร",
+      "region": "กรุงเทพมหานคร/Bangkok",
       "latitude": 13.756105,
       "longitude": 100.502121,
-      "price_range": "251 - 500 บาท",
+      "price_range": "251 - 500 บาท/Bath",
       "rating": 4.1,
       "rating_source": "wongnai",
       "phone": "02-224-3088, 02-224-3178",
@@ -189,10 +189,10 @@
         "gai_pad_med_ma_muang_himmaphan",
         "por_pia_tod"
       ],
-      "region": "กรุงเทพมหานคร",
+      "region": "กรุงเทพมหานคร/Bangkok",
       "latitude": 13.740202,
       "longitude": 100.509916,
-      "price_range": "251 - 500 บาท",
+      "price_range": "251 - 500 บาท/Bath",
       "rating": 4.1,
       "rating_source": "wongnai",
       "phone": "096-245-4242",
@@ -209,10 +209,10 @@
         "gai_pad_med_ma_muang_himmaphan",
         "gung_ob_woon_sen"
       ],
-      "region": "สมุทรปราการ",
+      "region": "สมุทรปราการ/Samut Prakan",
       "latitude": 13.641258,
       "longitude": 100.670812,
-      "price_range": "251 - 500 บาท",
+      "price_range": "251 - 500 บาท/Bath",
       "rating": 3.9,
       "rating_source": "wongnai",
       "phone": "095-807-4808, 02-740-2784, 02-740-2786",
@@ -226,10 +226,10 @@
       "specialty": [
         "khanom_krok"
       ],
-      "region": "กรุงเทพมหานคร",
+      "region": "กรุงเทพมหานคร/Bangkok",
       "latitude": 13.729769,
       "longitude": 100.654342,
-      "price_range": "< 100 บาท",
+      "price_range": "< 100 บาท/Bath",
       "rating": 4.6,
       "rating_source": "wongnai",
       "phone": "081-838-1613",
@@ -243,10 +243,10 @@
       "specialty": [
         "khanom_krok"
       ],
-      "region": "กรุงเทพมหานคร",
+      "region": "กรุงเทพมหานคร/Bangkok",
       "latitude": 13.778963,
       "longitude": 100.52365,
-      "price_range": "< 100 บาท",
+      "price_range": "< 100 บาท/Bath",
       "rating": 4.0,
       "rating_source": "wongnai",
       "phone": "081-916-0974, 02-591-5998, 081-916-0974",
@@ -259,10 +259,10 @@
       "specialty": [
         "foi_thong"
       ],
-      "region": "กรุงเทพมหานคร",
+      "region": "กรุงเทพมหานคร/Bangkok",
       "latitude": 13.765577,
       "longitude": 100.602201,
-      "price_range": "< 100 บาท",
+      "price_range": "< 100 บาท/Bath",
       "rating": 4.0,
       "rating_source": "wongnai",
       "phone": "02-559-0676, 081-818-4476, 02-559-3134",
@@ -276,10 +276,10 @@
       "specialty": [
         "pad_thai"
       ],
-      "region": "กรุงเทพมหานคร",
+      "region": "กรุงเทพมหานคร/Bangkok",
       "latitude": 13.66652,
       "longitude": 100.638195,
-      "price_range": "251 - 500 บาท",
+      "price_range": "251 - 500 บาท/Bath",
       "rating": 4.3,
       "rating_source": "wongnai",
       "phone": "085-824-4889",
@@ -294,10 +294,10 @@
         "gai_pad_med_ma_muang_himmaphan",
         "gung_ob_woon_sen"
       ],
-      "region": "ปทุมธานี",
+      "region": "ปทุมธานี/Pathum Thani",
       "latitude": 14.063295,
       "longitude": 100.593175,
-      "price_range": "101 - 250 บาท",
+      "price_range": "101 - 250 บาท/Bath",
       "rating": 4.4,
       "rating_source": "wongnai",
       "phone": "084-761-6259",
@@ -312,10 +312,10 @@
         "pad_thai",
         "khao_man_gai"
       ],
-      "region": "กรุงเทพมหานคร",
+      "region": "กรุงเทพมหานคร/Bangkok",
       "latitude": 13.730891,
       "longitude": 100.531356,
-      "price_range": "251 - 500 บาท",
+      "price_range": "251 - 500 บาท/Bath",
       "rating": 4.1,
       "rating_source": "wongnai",
       "phone": "02-233-7060",
@@ -330,10 +330,10 @@
         "som_tum",
         "larb"
       ],
-      "region": "อุบลราชธานี",
+      "region": "อุบลราชธานี/Ubon Ratchathani",
       "latitude": 15.219677,
       "longitude": 104.814925,
-      "price_range": "251 - 500 บาท",
+      "price_range": "251 - 500 บาท/Bath",
       "rating": 4.7,
       "rating_source": "wongnai",
       "phone": "081-725-3443, 094-538-3939",
@@ -348,10 +348,10 @@
         "som_tum",
         "larb"
       ],
-      "region": "อุดรธานี",
+      "region": "อุดลธานี/Udon Thani",
       "latitude": 17.412122,
       "longitude": 102.796268,
-      "price_range": "101 - 250 บาท",
+      "price_range": "101 - 250 บาท/Bath",
       "rating": 3.9,
       "rating_source": "wongnai",
       "phone": "085-111-0009, 084-669-9888",
@@ -364,10 +364,10 @@
       "specialty": [
         "por_pia_tod"
       ],
-      "region": "จันทบุรี",
+      "region": "จันทบุรี/Chanthaburi",
       "latitude": 12.597709,
       "longitude": 102.112344,
-      "price_range": "251 - 500 บาท",
+      "price_range": "251 - 500 บาท/Bath",
       "rating": 4.1,
       "rating_source": "wongnai",
       "phone": "03-932-7179, 065-996-2644",
@@ -381,10 +381,10 @@
       "specialty": [
         "pad_thai"
       ],
-      "region": "จันทบุรี",
+      "region": "จันทบุรี/Chanthaburi",
       "latitude": 12.619044,
       "longitude": 102.114615,
-      "price_range": "< 100 บาท",
+      "price_range": "< 100 บาท/Bath",
       "rating": 3.9,
       "rating_source": "wongnai",
       "phone": "081-863-6114, 086-318-8599",
@@ -397,10 +397,10 @@
       "specialty": [
         "khao_soi"
       ],
-      "region": "เชียงใหม่",
+      "region": "เชียงใหม่/Chiang Mai",
       "latitude": 18.801549,
       "longitude": 99.005472,
-      "price_range": "< 100 บาท",
+      "price_range": "< 100 บาท/Bath",
       "rating": 3.8,
       "rating_source": "wongnai",
       "phone": "092-795-2228",
@@ -413,10 +413,10 @@
       "specialty": [
         "khao_soi"
       ],
-      "region": "เชียงใหม่",
+      "region": "เชียงใหม่/Chiang Mai",
       "latitude": 18.799417,
       "longitude": 98.975139,
-      "price_range": "< 100 บาท",
+      "price_range": "< 100 บาท/Bath",
       "rating": 4.1,
       "rating_source": "wongnai",
       "phone": "053-213-284",
@@ -430,10 +430,10 @@
       "specialty": [
         "khao_man_gai"
       ],
-      "region": "ภูเก็ต",
+      "region": "ภูเก็ต/Phuket",
       "latitude": 7.880036,
       "longitude": 98.392974,
-      "price_range": "< 100 บาท",
+      "price_range": "< 100 บาท/Bath",
       "rating": 3.7,
       "rating_source": "wongnai",
       "phone": "092-269-4999",
@@ -446,10 +446,10 @@
       "specialty": [
         "khao_kha_mu"
       ],
-      "region": "นครปฐม",
+      "region": "นครปฐม/Nakhon Pathom",
       "latitude": 13.798484,
       "longitude": 99.981535,
-      "price_range": "< 100 บาท",
+      "price_range": "< 100 บาท/Bath",
       "rating": 4.1,
       "rating_source": "wongnai",
       "phone": "081-866-8758",
@@ -462,10 +462,10 @@
       "specialty": [
         "hor_mok"
       ],
-      "region": "ระยอง",
+      "region": "ระยอง/Rayong",
       "latitude": 12.622941,
       "longitude": 101.426545,
-      "price_range": "101 - 250 บาท",
+      "price_range": "101 - 250 บาท/Bath",
       "rating": 4.0,
       "rating_source": "wongnai",
       "phone": "086-302-7715",
@@ -478,10 +478,10 @@
       "specialty": [
         "foi_thong"
       ],
-      "region": "ฉะเชิงเทรา",
+      "region": "ฉะเชิงเทรา/Chachoengsao",
       "latitude": 13.508517,
       "longitude": 100.98356,
-      "price_range": "101 - 250 บาท",
+      "price_range": "101 - 250 บาท/Bath",
       "rating": 4.3,
       "rating_source": "wongnai",
       "phone": "038-531-333, 038-533-555",
@@ -495,10 +495,10 @@
       "specialty": [
         "khao_niao_ma_muang"
       ],
-      "region": "กรุงเทพมหานคร",
+      "region": "กรุงเทพมหานคร/Bangkok",
       "latitude": 13.723917,
       "longitude": 100.579347,
-      "price_range": "101 - 250 บาท",
+      "price_range": "101 - 250 บาท/Bath",
       "rating": 3.7,
       "rating_source": "wongnai",
       "phone": "02-392-4804, 093-164-6954",
@@ -516,10 +516,10 @@
         "por_pia_tod",
         "khao_niao_ma_muang"
       ],
-      "region": "กรุงเทพมหานคร",
+      "region": "กรุงเทพมหานคร/Bangkok",
       "latitude": 13.723343,
       "longitude": 100.536274,
-      "price_range": "501 - 1,000 บาท",
+      "price_range": "501 - 1,000 บาท/Bath",
       "rating": 3.8,
       "rating_source": "wongnai",
       "phone": "083-297-5467",
@@ -533,10 +533,10 @@
       "specialty": [
         "khao_kluk_kapi"
       ],
-      "region": "ราชบุรี",
+      "region": "ราชบุรี/Ratchaburi",
       "latitude": 13.537531,
       "longitude": 99.814864,
-      "price_range": "< 100 บาท",
+      "price_range": "< 100 บาท/Bath",
       "rating": 4.1,
       "rating_source": "wongnai",
       "phone": "032-337-270",
@@ -551,10 +551,10 @@
         "pad_thai",
         "pad_krapow"
       ],
-      "region": "กรุงเทพมหานคร",
+      "region": "กรุงเทพมหานคร/Bangkok",
       "latitude": 13.7796,
       "longitude": 100.474843,
-      "price_range": "> 1,000 บาท",
+      "price_range": "> 1,000 บาท/Bath",
       "rating": 4.4,
       "rating_source": "wongnai",
       "phone": "092-281-1818",
@@ -567,10 +567,10 @@
       "specialty": [
         "khao_kha_mu"
       ],
-      "region": "กรุงเทพมหานคร",
+      "region": "กรุงเทพมหานคร/Bangkok",
       "latitude": 13.722802,
       "longitude": 100.516882,
-      "price_range": "101 - 250 บาท",
+      "price_range": "101 - 250 บาท/Bath",
       "rating": 4.3,
       "rating_source": "wongnai",
       "phone": "02-234-4602, 02-234-8036",
@@ -583,10 +583,10 @@
       "specialty": [
         "khao_niao_ma_muang"
       ],
-      "region": "กรุงเทพมหานคร",
+      "region": "กรุงเทพมหานคร/Bangkok",
       "latitude": 13.742273,
       "longitude": 100.511522,
-      "price_range": "101 - 250 บาท",
+      "price_range": "101 - 250 บาท/Bath",
       "rating": 4.0,
       "rating_source": "wongnai",
       "phone": "081-861-5523, 084-935-2935",

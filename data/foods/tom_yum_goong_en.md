@@ -1,7 +1,6 @@
 # Tom Yum Goong (ต้มยำกุ้ง)
 
 ## 📖 General Information
-
 - **Thai Name**: ต้มยำกุ้ง (Tom Yum Goong)
 - **English Name**: Spicy Shrimp Soup, Hot and Sour Soup with Prawns
 - **Region of Origin**: Central Thailand (Chao Phraya River Basin)
@@ -22,19 +21,19 @@ Tom Yum Goong is suitable for every occasion - lunch, dinner, or as a welcoming 
 
 ### Ingredients (serves 2-3)
 
-**Main Ingredients:**
+#### Main Ingredients
 - 300-400g fresh prawns/shrimp (shell and devein, but keep heads and shells for stock)
 - 150g straw mushrooms or oyster mushrooms (cleaned and halved)
 - 5-6 cherry tomatoes (halved)
 
-**Tom Yum Aromatics:**
+#### Tom Yum Aromatics
 - 3-4 stalks lemongrass (cut into 2-inch pieces, bruise with knife)
 - 30-40g galangal (thinly sliced)
 - 5-6 kaffir lime leaves (tear out center vein)
 - 5-10 Thai bird's eye chilies (lightly crushed, adjust to heat preference)
 - 3-4 shallots (peeled and left whole)
 
-**Seasonings:**
+#### Seasonings
 - 3-4 cups water or stock
 - 2-3 tablespoons fish sauce
 - 3-4 tablespoons fresh lime juice
@@ -42,36 +41,41 @@ Tom Yum Goong is suitable for every occasion - lunch, dinner, or as a welcoming 
 - 1/2 cup evaporated milk or fresh milk - for creamy version
 - 1 teaspoon chili powder (optional)
 
-**Garnishes:**
+#### Garnishes
 - Fresh cilantro for topping
 - Spring onions, cut into sections
 - Thai basil leaves (if available)
 
 ### Cooking Instructions
 
-1. **Prepare ingredients and make prawn stock** - Shell and devein the prawns, reserving the heads and shells. Clean the mushrooms. In a pot, bring 3-4 cups of water to a boil, add the prawn heads and shells, and simmer for about 10 minutes to extract the sweet prawn flavor. This creates a flavorful stock base. Strain out the heads and shells, keeping the aromatic prawn stock.
+**Step 1: Prepare ingredients and make prawn stock**
+Shell and devein the prawns, reserving the heads and shells. Clean the mushrooms. In a pot, bring 3-4 cups of water to a boil, add the prawn heads and shells, and simmer for about 10 minutes to extract the sweet prawn flavor. This creates a flavorful stock base. Strain out the heads and shells, keeping the aromatic prawn stock.
 
-2. **Infuse aromatics into the stock** - Return the prawn stock to a boil. Add lemongrass, galangal, kaffir lime leaves, and shallots. Let these simmer for 3-5 minutes to release their aromatic oils into the broth. The soup should now smell incredibly fragrant and inviting.
+**Step 2: Infuse aromatics into the stock**
+Return the prawn stock to a boil. Add lemongrass, galangal, kaffir lime leaves, and shallots. Let these simmer for 3-5 minutes to release their aromatic oils into the broth. The soup should now smell incredibly fragrant and inviting.
 
-3. **Add mushrooms and tomatoes** - Add the straw mushrooms and cherry tomatoes to the boiling soup. Cook until the mushrooms are tender and the tomatoes begin to soften, about 2-3 minutes. Be careful not to overcook the tomatoes or they'll become too mushy.
+**Step 3: Add mushrooms and tomatoes**
+Add the straw mushrooms and cherry tomatoes to the boiling soup. Cook until the mushrooms are tender and the tomatoes begin to soften, about 2-3 minutes. Be careful not to overcook the tomatoes or they'll become too mushy.
 
-4. **Season and add prawns** - Season the soup with fish sauce and Thai chili paste (if making the creamy version). Taste to ensure proper saltiness. Add the cleaned prawns and cook just until they curl and turn pink-orange, about 2-3 minutes. Be very careful not to overcook the prawns or they'll become tough and rubbery.
+**Step 4: Season and add prawns**
+Season the soup with fish sauce and Thai chili paste (if making the creamy version). Taste to ensure proper saltiness. Add the cleaned prawns and cook just until they curl and turn pink-orange, about 2-3 minutes. Be very careful not to overcook the prawns or they'll become tough and rubbery.
 
-5. **Add milk and chilies** - (For creamy Tom Yum) Reduce heat to low and add evaporated milk or fresh milk, stirring gently to incorporate. Don't let it boil vigorously or the milk will separate. Add the lightly crushed Thai chilies for that signature heat.
+**Step 5: Add milk and chilies**
+(For creamy Tom Yum) Reduce heat to low and add evaporated milk or fresh milk, stirring gently to incorporate. Don't let it boil vigorously or the milk will separate. Add the lightly crushed Thai chilies for that signature heat.
 
-6. **Turn off heat and add lime juice** - Turn off the heat completely, then squeeze in the fresh lime juice. Taste and adjust the seasoning to achieve a perfect balance of sour, spicy, and salty flavors. Never add lime juice while the soup is still boiling, as the heat will make it taste bitter.
+**Step 6: Turn off heat and add lime juice**
+Turn off the heat completely, then squeeze in the fresh lime juice. Taste and adjust the seasoning to achieve a perfect balance of sour, spicy, and salty flavors. Never add lime juice while the soup is still boiling, as the heat will make it taste bitter.
 
-7. **Garnish and serve** - Ladle into bowls, garnish with fresh cilantro, spring onions, and Thai basil leaves. Serve piping hot with steamed jasmine rice.
+**Step 7: Garnish and serve**
+Ladle into bowls, garnish with fresh cilantro, spring onions, and Thai basil leaves. Serve piping hot with steamed jasmine rice.
 
 ### Cooking Time
-
-- **Prep time**: 15-20 minutes
-- **Cook time**: 15-20 minutes
-- **Total time**: 30-40 minutes
+- Prep time: 15-20 minutes
+- Cook time: 15-20 minutes
+- Total: 30-40 minutes
 
 ### Difficulty Level
-
-⭐⭐⭐☆☆ (Medium)
+⭐⭐⭐☆☆ (3/5 stars) - Medium
 
 ### 💡 Tips and Notes
 

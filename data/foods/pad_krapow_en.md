@@ -75,7 +75,7 @@ Transfer the Pad Krapow to a plate. Serve hot with steamed rice, topped with a c
 - Total: 17 minutes
 
 ### Difficulty Level
-⭐⭐ (2/5 stars) - Easy, suitable for beginners
+⭐⭐☆☆☆ (2/5 stars) - Easy, suitable for beginners
 
 ### 💡 Tips and Notes
 
